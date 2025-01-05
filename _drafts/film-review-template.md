@@ -4,7 +4,7 @@ description: Film description
 skip_description: true
 skip_reading_time: true
 date: 2025-01-05 11:28:37
-categories: [reviews, films]
+categories: [films, horror]
 tags: [film reviews, horror]
 media_subpath: /assets/img/posts/2025-01-05/
 image:
