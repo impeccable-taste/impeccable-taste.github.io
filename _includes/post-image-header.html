@@ -1,0 +1,21 @@
+<!-- image header -->
+{% if page.image %}
+    {% capture src %}src="{{ page.image.path | default: page.image }}"{% endcapture %}
+    {% capture class %}class="preview-img{% if page.image.no_bg %}{{ ' no-bg' }}{% endif %}"{% endcapture %}
+    {% capture alt %}alt="{{ page.image.alt | xml_escape | default: page.title }}"{% endcapture %}
+    {% capture width %}w="{{ page.image.width | default: "" }}"{% endcapture %}
+    {% capture height %}h="{{ page.image.height | default: "" }}"{% endcapture %}
+
+    {% if page.image.lqip %}
+        {%- capture lqip -%}lqip="{{ page.image.lqip }}"{%- endcapture -%}
+    {% endif %}
+
+    {% if page.image.show_in_post != nil and page.image.show_in_post %}
+        <div class="mt-3 mb-3">
+        <img {{ src }} {{ alt }} {{ width }} {{ height }} {{ lqip }}>
+        {%- if page.image.alt -%}
+        <figcaption class="text-center pt-2 pb-2">{{ page.image.alt }}</figcaption>
+        {%- endif -%}
+        </div>
+    {% endif %}
+{% endif %}

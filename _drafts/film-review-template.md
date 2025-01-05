@@ -1,22 +1,25 @@
 ---
 title: Film review template
-description: let's see where this goes
+description: Film description
+skip_description: true
+skip_reading_time: true
 date: 2025-01-05 11:28:37
-categories: [tests, Blogging]
-tags: [writing, film reviews]
-media_subpath: /assets/img/avatar/
+categories: [reviews, films]
+tags: [film reviews, horror]
+media_subpath: /assets/img/posts/2025-01-05/
 image:
-    path: smart-homer.png
-    width: 120
-    height: 120
-    show_in_post: false
+    path: chateau.png
+    path_thumb: false
+    cover: false
+    show_in_post: true
 draft: true
 ---
-**Where:** [platform]  
-**Premise:** summary of the movie's premise  
-**Under 90 minutes?** yes  
-**Do they say the title?** yes
+**Premise:** <br/>
+**Where:** <br/>
+**Under 90 minutes?** <br/>
+**Do they say the title?**
 
-**One sentence review:** ooh  
-**A simple way to improve it:** like this  
-**Trivia about IMDB trivia:** sure
+**One sentence review:** <br/>
+**Recommended?** <br/>
+**A simple way to improve it:** <br/>
+**Trivia about IMDB trivia:** <br/>

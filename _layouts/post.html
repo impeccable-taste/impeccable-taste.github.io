@@ -17,90 +17,17 @@ script_includes:
 <article class="px-1" data-toc="{{ enable_toc }}">
   <header>
     <h1 data-toc-skip>{{ page.title }}</h1>
-    {% if page.description %}
-      <p class="post-desc fw-light mb-4">{{ page.description }}</p>
+    {% if page.skip_description == nil or page.skip_description != nil and page.skip_description == false %}
+      {% if page.description %}
+        <p class="post-desc fw-light mb-0">{{ page.description }}</p>
+      {% endif %}
     {% endif %}
-
-    <div class="post-meta text-muted">
-      <!-- published date -->
-      <span>
-        {{ site.data.locales[lang].post.posted }}
-        {% include datetime.html date=page.date tooltip=true lang=lang %}
-      </span>
-
-      <!-- lastmod date -->
-      {% if page.last_modified_at and page.last_modified_at != page.date %}
-        <span>
-          {{ site.data.locales[lang].post.updated }}
-          {% include datetime.html date=page.last_modified_at tooltip=true lang=lang %}
-        </span>
-      {% endif %}
-
-      {% if page.image %}
-        {% capture src %}src="{{ page.image.path | default: page.image }}"{% endcapture %}
-        {% capture class %}class="preview-img{% if page.image.no_bg %}{{ ' no-bg' }}{% endif %}"{% endcapture %}
-        {% capture alt %}alt="{{ page.image.alt | xml_escape | default: page.title }}"{% endcapture %}
-        {% capture width %}w="{{ page.image.width | default: "" }}"{% endcapture %}
-        {% capture height %}h="{{ page.image.height | default: "" }}"{% endcapture %}
-
-        {% if page.image.lqip %}
-          {%- capture lqip -%}lqip="{{ page.image.lqip }}"{%- endcapture -%}
-        {% endif %}
-
-        {% if page.image.show_in_post != nil and page.image.show_in_post %}
-         <div class="mt-3 mb-3">
-          <img {{ src }} {{ alt }} {{ width }} {{ height }} {{ lqip }}>
-          {%- if page.image.alt -%}
-            <figcaption class="text-center pt-2 pb-2">{{ page.image.alt }}</figcaption>
-          {%- endif -%}
-        </div>
-        {% endif %}
-
-      {% endif %}
-
-      <div class="d-flex justify-content-between">
-        <!-- author(s) -->
-        <span>
-          {% if page.author %}
-            {% assign authors = page.author %}
-          {% elsif page.authors %}
-            {% assign authors = page.authors %}
-          {% endif %}
-
-          {{ site.data.locales[lang].post.written_by }}
-
-          <em>
-            {% if authors %}
-              {% for author in authors %}
-                {% if site.data.authors[author].url -%}
-                  <a href="{{ site.data.authors[author].url }}">{{ site.data.authors[author].name }}</a>
-                {%- else -%}
-                  {{ site.data.authors[author].name }}
-                {%- endif %}
-                {% unless forloop.last %}{{ '</em>, <em>' }}{% endunless %}
-              {% endfor %}
-            {% else %}
-              <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>
-            {% endif %}
-          </em>
-        </span>
-
-        <div>
-          <!-- pageviews -->
-          {% if site.pageviews.provider and site.analytics[site.pageviews.provider].id %}
-            <span>
-              <em id="pageviews">
-                <i class="fas fa-spinner fa-spin small"></i>
-              </em>
-              {{ site.data.locales[lang].post.pageview_measure }}
-            </span>
-          {% endif %}
-
-          <!-- read time -->
-          {% include read-time.html content=content prompt=true lang=lang %}
-        </div>
+    <!-- read time -->
+    {% if page.skip_reading_time == nil or page.skip_reading_time != nil and page.skip_reading_time == false %}
+      <div class="post-meta text-muted">
+        {% include read-time.html content=content prompt=true lang=lang %}
       </div>
-    </div>
+    {% endif %}
   </header>
 
   {% if enable_toc %}
@@ -128,7 +55,68 @@ script_includes:
   {% endif %}
 
   <div class="content">
+    {% include post-image-header.html %}
     {{ content }}
+  </div>
+
+  <!-- date, author, reading time -->
+  <div class="post-meta text-muted">
+    <!-- published date -->
+    <span>
+      {{ site.data.locales[lang].post.posted }}
+      {% include datetime.html date=page.date tooltip=true lang=lang %}
+    </span>
+
+    <!-- lastmod date -->
+    {% if page.last_modified_at and page.last_modified_at != page.date %}
+      <span>
+        {{ site.data.locales[lang].post.updated }}
+        {% include datetime.html date=page.last_modified_at tooltip=true lang=lang %}
+      </span>
+    {% endif %}
+
+    <div class="d-flex justify-content-between">
+      <!-- author(s) -->
+      <span>
+        {% if page.author %}
+          {% assign authors = page.author %}
+        {% elsif page.authors %}
+          {% assign authors = page.authors %}
+        {% endif %}
+
+        {{ site.data.locales[lang].post.written_by }}
+
+        <em>
+          {% if authors %}
+            {% for author in authors %}
+              {% if site.data.authors[author].url -%}
+                <a href="{{ site.data.authors[author].url }}">{{ site.data.authors[author].name }}</a>
+              {%- else -%}
+                {{ site.data.authors[author].name }}
+              {%- endif %}
+              {% unless forloop.last %}{{ '</em>, <em>' }}{% endunless %}
+            {% endfor %}
+          {% else %}
+            <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>
+          {% endif %}
+        </em>
+      </span>
+
+      <div>
+        <!-- pageviews -->
+        {% if site.pageviews.provider and site.analytics[site.pageviews.provider].id %}
+          <span>
+            <em id="pageviews">
+              <i class="fas fa-spinner fa-spin small"></i>
+            </em>
+            {{ site.data.locales[lang].post.pageview_measure }}
+          </span>
+        {% endif %}
+
+        <!-- read time -->
+        {% include read-time.html content=content prompt=true lang=lang %}
+      </div>
+    </div>
   </div>
 
   <div class="post-tail-wrapper text-muted">
