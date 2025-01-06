@@ -9,8 +9,8 @@ tags: [film reviews, horror]
 media_subpath: /assets/img/posts/2025-01-05/
 image:
     path: chateau.png
-    path_thumb: false
-    cover: false
+    thumb: true
+    cover: true
     show_in_post: true
 draft: true
 ---
