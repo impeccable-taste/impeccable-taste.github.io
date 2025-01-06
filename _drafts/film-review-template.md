@@ -20,6 +20,6 @@ draft: true
 **Do they say the title?**
 
 **One sentence review:** <br/>
-**Recommended?** <br/>
+**Rating:** <br/>
 **A simple way to improve it:** <br/>
 **Trivia about IMDB trivia:** <br/>
