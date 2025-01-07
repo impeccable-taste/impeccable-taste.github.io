@@ -1,25 +1,26 @@
 ---
-title: Film review template
-description: Film description
+title: {{TITLE_CAPS}} (RELEASE_YEAR)
+description: description
 skip_description: true
 skip_reading_time: true
-date: 2025-01-05 11:28:37
-categories: [films, horror]
-tags: [film reviews, horror]
-media_subpath: /assets/img/posts/2025-01-05/
+date: 1969-06-20
+categories: [films, genre]
+tags: [film reviews, genre]
+media_subpath: "/assets/img/posts/{{DATE}}/"
 image:
-    path: chateau.png
-    thumb: true
-    cover: true
+    path: "{{TITLE}}.png"
+    thumb: false
+    cover: false
     show_in_post: true
 draft: true
 ---
-**Premise:** <br/>
-**Where:** <br/>
+**Premise:**
+
 **Under 90 minutes?** <br/>
 **Do they say the title?**
 
 **One sentence review:** <br/>
 **Rating:** <br/>
-**A simple way to improve it:** <br/>
-**Trivia about IMDB trivia:** <br/>
+**A simple way to improve it:**
+
+**Trivia about the IMDB trivia:**
