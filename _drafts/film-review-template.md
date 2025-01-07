@@ -14,13 +14,15 @@ image:
     show_in_post: true
 draft: true
 ---
-**Premise:**
+<span class="reviewsection">Premise:</span> <br/>
+<span class="reviewsection">Under 90 minutes?</span> <br/>
+<span class="reviewsection">Do they say the title?</span>
 
-**Under 90 minutes?** <br/>
-**Do they say the title?**
+<span class="reviewsection">One sentence review:</span> <br/>
+<span class="reviewsection">Rating:</span> <br/>
+<span class="reviewsection">A simple way to improve it:</span>
 
-**One sentence review:** <br/>
-**Rating:** <br/>
-**A simple way to improve it:**
+<span class="reviewsection">Trivia about the IMDB trivia:</span>
+> trivia here
 
-**Trivia about the IMDB trivia:**
+comments here
