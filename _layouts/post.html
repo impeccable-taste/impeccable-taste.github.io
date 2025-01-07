@@ -17,17 +17,6 @@ script_includes:
 <article class="px-1" data-toc="{{ enable_toc }}">
   <header>
     <h1 data-toc-skip>{{ page.title }}</h1>
-    {% if page.skip_description == nil or page.skip_description != nil and page.skip_description == false %}
-      {% if page.description %}
-        <p class="post-desc fw-light mb-0">{{ page.description }}</p>
-      {% endif %}
-    {% endif %}
-    <!-- read time -->
-    {% if page.skip_reading_time == nil or page.skip_reading_time != nil and page.skip_reading_time == false %}
-      <div class="post-meta text-muted">
-        {% include read-time.html content=content prompt=true lang=lang %}
-      </div>
-    {% endif %}
   </header>
 
   {% if enable_toc %}

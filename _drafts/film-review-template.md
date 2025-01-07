@@ -1,7 +1,7 @@
 ---
 title: {{TITLE_CAPS}} (RELEASE_YEAR)
 description: description
-skip_description: true
+skip_description: false
 skip_reading_time: true
 date: 1969-06-20
 categories: [films, genre]
