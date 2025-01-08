@@ -1,12 +1,12 @@
 #  The contact options.
 
-- type: letterboxd
-  icon: "fa-brands fa-letterboxd"
-  url: 'https://letterboxd.com/yourfriendhohe/'
+# - type: letterboxd
+#   icon: "fa-brands fa-letterboxd"
+#   url: 'https://letterboxd.com/yourfriendhohe/'
 
 - type: email
   icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+  noblank: true
 
 - type: rss
   icon: "fas fa-rss"

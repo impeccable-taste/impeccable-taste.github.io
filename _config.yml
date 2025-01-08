@@ -35,9 +35,10 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: "hohito :( "
-  email: jorge.otal+blog@gmail.com # change to your email address
+  email: hohito@impeccable-taste.com # change to your email address
   links:
-    - https://letterboxd.com/yourfriendhohe/
+    - javascript:location.href = 'mailto:' + ['hohito','impeccable-taste.com'].join('@')
+    #- https://letterboxd.com/yourfriendhohe/
     # The first element serves as the copyright owner's link
     #- https://twitter.com/username # change to your Twitter homepage
     #- https://github.com/username # change to your GitHub homepage
