@@ -1,0 +1,5 @@
+rules:
+  type-enum:
+    - 0 # Disable the type-enum rule
+  header-max-length:
+    - 0 # Disable the header length check
