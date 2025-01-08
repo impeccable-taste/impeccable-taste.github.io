@@ -3,7 +3,7 @@
 icon: fas fa-info-circle
 order: 2
 ---
-## your friend, hohito :(
+## Your friend, hohito :(
 I like watching movies, petting dogs and praising Satan. I also like talking about those things.
 
 ## What an Impeccable Taste!
