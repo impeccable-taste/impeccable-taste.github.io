@@ -1,0 +1,11 @@
+<!-- post image footer -->
+{% if page.image %}
+    {% assign src = page.image.path | default: page.image %}
+    {% if page.image.cover != nil and page.image.cover %}
+        {% assign src = src | replace: ".png", "-cover.png" %}
+    {% unless src contains '//' %}
+        {% assign src = page.media_subpath | append: '/' | append: src | replace: '//', '/' %}
+    {% endunless %}
+    <p><a href='{{src}}' class="popup img-link shimmer" style="justify-content: center;"><img src='{{src}}' alt='{{page.title}}' style="width:60%"></a></p>
+    {% endif %}
+{% endif %}
