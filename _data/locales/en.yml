@@ -30,7 +30,7 @@ panel:
 copyright:
   # Shown at the bottom of the post
   license:
-    template: This post is licensed under :LICENSE_NAME by the author.
+    template: Licensed under :LICENSE_NAME.
     name: CC BY 4.0
     link: https://creativecommons.org/licenses/by/4.0/
 
@@ -60,7 +60,7 @@ post:
   read_time:
     unit: min
     prompt: read
-  relate_posts: Further Reading
+  relate_posts: More Stuff
   share: Share
   button:
     next: Newer

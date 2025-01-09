@@ -7,6 +7,7 @@
     flex-lg-row justify-content-lg-between align-items-lg-center pb-lg-3
   "
 >
+
   <p>
     {{- '©' }}
     <time>{{ 'now' | date: '%Y' }}</time>
@@ -27,6 +28,18 @@
       </span>
     {% endif %}
   </p>
+
+    <div class="license-wrapper">
+        {% if site.data.locales[lang].copyright.license.template %}
+          {% capture _replacement %}
+        <a href="{{ site.data.locales[lang].copyright.license.link }}">
+          {{ site.data.locales[lang].copyright.license.name }}
+        </a>
+        {% endcapture %}
+
+          {{ site.data.locales[lang].copyright.license.template | replace: ':LICENSE_NAME', _replacement }}
+        {% endif %}
+      </div>
 
   <p>
     {%- capture _platform -%}

@@ -8,12 +8,11 @@
     <a
       href="{{ site.baseurl }}{{ page.previous.url }}"
       class="btn btn-outline-primary"
-      aria-label="{{ previous }}"
     >
       <p>{{ page.previous.title }}</p>
     </a>
   {% else %}
-    <div class="btn btn-outline-primary disabled" aria-label="{{ previous }}">
+    <div class="btn btn-outline-primary disabled">
       <p>-</p>
     </div>
   {% endif %}
@@ -22,12 +21,11 @@
     <a
       href="{{ site.baseurl }}{{page.next.url}}"
       class="btn btn-outline-primary"
-      aria-label="{{ next }}"
     >
       <p>{{ page.next.title }}</p>
     </a>
   {% else %}
-    <div class="btn btn-outline-primary disabled" aria-label="{{ next }}">
+    <div class="btn btn-outline-primary disabled">
       <p>-</p>
     </div>
   {% endif %}

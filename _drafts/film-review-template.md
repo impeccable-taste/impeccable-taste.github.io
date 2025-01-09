@@ -4,8 +4,8 @@ description: description
 skip_description: false
 skip_reading_time: true
 date: 1969-06-20
-categories: [films, genre]
-tags: [film reviews, genre]
+categories: [films, horror]
+tags: [film reviews, horror]
 media_subpath: "/assets/img/posts/{{DATE}}/"
 image:
     path: "{{TITLE}}.png"
