@@ -1,5 +1,5 @@
 importScripts('./assets/js/data/swconf.js');
-
+/*
 const purge = swconf.purge;
 const interceptor = swconf.interceptor;
 
@@ -90,3 +90,4 @@ self.addEventListener('fetch', (event) => {
     })
   );
 });
+*/

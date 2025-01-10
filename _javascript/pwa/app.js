@@ -1,4 +1,4 @@
-import Toast from 'bootstrap/js/src/toast';
+/*import Toast from 'bootstrap/js/src/toast';
 
 if ('serviceWorker' in navigator) {
   navigator.serviceWorker.getRegistrations().then((registrations) => {
@@ -6,7 +6,7 @@ if ('serviceWorker' in navigator) {
           registration.unregister();
       });
   });
-}
+}*/
 /*
 if ('serviceWorker' in navigator) {
   // Get Jekyll config from URL parameters
