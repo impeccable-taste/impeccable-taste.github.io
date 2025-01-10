@@ -1,6 +1,14 @@
 import Toast from 'bootstrap/js/src/toast';
 
 if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.getRegistrations().then((registrations) => {
+      registrations.forEach((registration) => {
+          registration.unregister();
+      });
+  });
+}
+/*
+if ('serviceWorker' in navigator) {
   // Get Jekyll config from URL parameters
   const src = new URL(document.currentScript.src);
   const register = src.searchParams.get('register');
@@ -53,3 +61,4 @@ if ('serviceWorker' in navigator) {
     });
   }
 }
+*/
