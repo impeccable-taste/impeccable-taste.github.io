@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 2
+order: 4
 ---
 ## Your friend, hohito :(
 I like watching movies, petting dogs and praising Satan. I also like talking about those things.

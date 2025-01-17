@@ -75,7 +75,8 @@ def main():
     output_content = output_content.replace("{{TITLE}}", title)
     output_content = output_content.replace("{{DATE}}", date)
     output_content = output_content.replace("1969-06-20", full_date)
-    # output_content = output_content.replace("draft: true", "")
+    output_content = output_content.replace("draft: true", "")
+
     directory = Path(save_location)
     file_count = len([f for f in directory.iterdir() if f.is_file()])
     filename = f"{date}-{file_count:02d}-{title}.md"

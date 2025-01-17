@@ -9,8 +9,8 @@ tags: [film reviews, horror]
 media_subpath: "/assets/img/posts/{{DATE}}/"
 image:
     path: "{{TITLE}}.png"
-    thumb: false
-    cover: false
+    thumb: true
+    cover: true
     show_in_post: true
 draft: true
 ---
