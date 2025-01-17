@@ -1,18 +1,12 @@
 ---
 title: WNUF Halloween Special (2016)
 description: description
-skip_description: false
-skip_reading_time: true
 date: 2024-10-09 00:42:11 +0100
 categories: [films, horror]
 tags: [film reviews, horror, horror comedy, found footage, haunted-housesploitation, spooktober 2024]
 media_subpath: "/assets/img/posts/2024-10-09/"
 image:
     path: "wnuf-halloween-special.png"
-    thumb: true
-    cover: true
-    show_in_post: true
-
 ---
 <span class="reviewsection">Premise:</span> Supposedly a tape recording of a halloween special from 87 where things don't go as you'd expect, full of commercial pauses and that cheesy local area network flavour. horror comedy. There's even a "*we have the warrens at home*" couple, except they're The Bergers (I kept hearing "The Burgers")<br/>
 <span class="reviewsection">Under 90 minutes?</span> yup! phew!<br/>

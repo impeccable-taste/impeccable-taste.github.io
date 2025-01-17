@@ -1,17 +1,12 @@
 ---
 title: No Hay Fantasmas (2023)
 description: Come on, tag your spoilers!
-skip_description: false
-skip_reading_time: true
 date: 2024-10-28 20:36:03 +0100
 categories: [films, horror]
 tags: [film reviews, horror, shorts, haunted-housesploitation, spooktober 2024, they say the title]
 media_subpath: "/assets/img/posts/2024-10-28/"
 image:
     path: "no-hay-fantasmas.png"
-    thumb: true
-    cover: true
-    show_in_post: true
 ---
 <span class="reviewsection">Premise:</span> This young lady with a drinking problem put an ad on the paper so she can meet other people with drinking issues that think they have a ghost around and give them closure. The title is Spanish for "There are no ghosts".<br/>
 <span class="reviewsection">Under 90 minutes?</span> 15 minutes, actually.<br/>

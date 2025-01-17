@@ -1,17 +1,12 @@
 ---
 title: Infinity Pool (2023)
 description: I'll try anything once
-skip_description: false
-skip_reading_time: true
 date: 2024-10-26 21:57:27 +0100
 categories: [films, horror]
 tags: [film reviews, horror, just nepo baby things, body horror, the writer's barely-disguised fetish, high heels and leather, spooktober 2024, they say the title]
 media_subpath: "/assets/img/posts/2024-10-26/"
 image:
     path: "infinity-pool.png"
-    thumb: true
-    cover: true
-    show_in_post: true
 ---
 <span class="reviewsection">Premise:</span> Alex Skarsgård, his eternally sad face and his wife are on holidays who knows where. They meet the always eyebrowless Mia Goth and they have an car accident (not exactly at the same time, there is a lot of stuff happening before then). So they're introduced to some weird legislation and this is a Cronenberg Jr movie, of course from here on things get a bit, eh, weird.<br/>
 <span class="reviewsection">Under 90 minutes?</span> No.<br/>

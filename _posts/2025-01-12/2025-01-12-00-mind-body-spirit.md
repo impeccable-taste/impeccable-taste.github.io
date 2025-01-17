@@ -1,17 +1,12 @@
 ---
 title: Mind Body Spirit (2023)
 description: Yoga instructor meets a spooky grimoire
-skip_description: false
-skip_reading_time: true
 date: 2025-01-12 10:21:00 +0100
 categories: [films, horror]
 tags: [film reviews, horror, horror comedy, found footage, screenlife, hidden ghosts, haunted-housesploitation, influencers!, they say the title]
 media_subpath: "/assets/img/posts/2025-01-12/"
 image:
     path: "mind-body-spirit.png"
-    thumb: true
-    cover: true
-    show_in_post: true
 ---
 <span class="reviewsection">Premise:</span> Anya just inherited a bigass house from her completely estranged grandma and that allows her to focus on her apparent goal in life: become a failing youtube yoga instructor. Just when she's starting her first recording, she finds a hidden door... that kept like, half of the house behind it, a million weird occult things and specially a book/grimoire her grandma wrote for her. No red flags at all.<br/>
 <span class="reviewsection">Under 90 minutes?</span> Yes!<br/>

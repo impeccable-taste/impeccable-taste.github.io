@@ -58,9 +58,6 @@ refactor: true
           {% unless src contains '//' %}
             {% assign src = post.media_subpath | append: '/' | append: src | replace: '//', '/' %}
           {% endunless %}
-          {% if post.image.thumb != nil and post.image.thumb %}
-            {% assign src = src | replace: ".png", "-thumb.png" %}
-          {% endif %}
 
           {% assign alt = post.image.alt | xml_escape | default: 'Preview Image' %}
 

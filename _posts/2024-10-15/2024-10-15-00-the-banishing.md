@@ -1,17 +1,12 @@
 ---
 title: The Banishing (2020)
 description: What's with British people and big houses?
-skip_description: false
-skip_reading_time: true
 date: 2024-10-15 18:34:24 +0100
 categories: [films, horror]
 tags: [film reviews, horror, spooktober 2024, netflixcore, haunted-housesploitation, they don't say the title]
 media_subpath: "/assets/img/posts/2024-10-15/"
 image:
     path: "the-banishing.png"
-    thumb: true
-    cover: true
-    show_in_post: true
 ---
 <span class="reviewsection">Premise:</span> Near the beginning of WWII this british priest who is kind of scared of intimacy with his wife moves to a huge ass manor with her and their adoptive daughter (dorter) to take care of it and the parish I guess. The last family living at the big house disappeared in mysterious circumstances and (would you believe this) *they were also a priest + wife combo*...!<br/>
 <span class="reviewsection">Under 90 minutes?</span> No.<br/>

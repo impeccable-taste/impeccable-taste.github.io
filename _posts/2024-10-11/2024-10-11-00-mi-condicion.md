@@ -1,18 +1,12 @@
 ---
 title: Mi Condición (2021)
 description: REM - Losing my condition
-skip_description: false
-skip_reading_time: true
 date: 2024-10-11 11:04:10 +0100
 categories: [films, horror]
 tags: [film reviews, horror, shorts, spooktober 2024, they say the title]
 media_subpath: "/assets/img/posts/2024-10-11/"
 image:
     path: "mi-condicion.png"
-    thumb: true
-    cover: true
-    show_in_post: true
-
 ---
 <span class="reviewsection">Premise:</span> Late at night, this lady is waiting for the bus and ends up talking with a dude at the bus stop, oooor more specifically she ends up *being talked to* by that dude who apparently cannot get a hint.<br/>
 <span class="reviewsection">Under 90 minutes?</span> yup, 11 minutes.<br/>

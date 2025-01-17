@@ -1,17 +1,12 @@
 ---
 title: The Substance (2024)
 description: It's my party and I'll cry if I want to
-skip_description: false
-skip_reading_time: true
 date: 2024-10-18 19:17:03 +0100
 categories: [films, horror]
 tags: [film reviews, horror, body horror, horror comedy, spooktober 2024, the writer's barely-disguised fetish, buttsploitation, they say the title]
 media_subpath: "/assets/img/posts/2024-10-18/"
 image:
     path: "the-substance.png"
-    thumb: true
-    cover: true
-    show_in_post: true
 ---
 <span class="reviewsection">Premise:</span> The day of her 50th birthday, Demi Moore is fired from her job because apparently she looks too old. She then finds out about the titular substance, which offers you the chance to become an improved (perfect, even) version of yourself. What could go wrong!<br/>
 <span class="reviewsection">Under 90 minutes?</span> good lord, no, it's two hours and a half long.<br/>

@@ -1,18 +1,12 @@
 ---
 title: Uzumaki (final chapter, 2024)
 description: Good riddance
-skip_description: false
-skip_reading_time: true
 date: 2024-10-22 22:54:47 +0100
 categories: [shows, horror]
 tags: [show reviews, anime, horror, spooktober 2024, they say the title]
 media_subpath: "/assets/img/posts/2024-10-22/"
 image:
     path: "uzumaki-(chapter-4).png"
-    thumb: true
-    cover: true
-    show_in_post: true
-
 ---
 <span class="reviewsection">Premise:</span> The thrilling conclusion to the cosmic horror manga adaptation where "horrible pacing" and "extremely cheap animation" were the surprise guests!<br/>
 <span class="reviewsection">Under 90 minutes?</span> Yeah.<br/>

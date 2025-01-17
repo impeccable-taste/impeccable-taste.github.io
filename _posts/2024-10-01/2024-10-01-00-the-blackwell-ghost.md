@@ -1,17 +1,12 @@
 ---
 title: The Blackwell Ghost (2017)
 description: Is there anything scarier than... NOTHING?
-skip_description: false
-skip_reading_time: true
 date: 2024-10-01 21:52:51 +0100
 categories: [films, horror]
 tags: [film reviews, horror, spooktober 2024, hagsploitation, haunted-housesploitation, they don't say the title]
 media_subpath: "/assets/img/posts/2024-10-01/"
 image:
     path: "the-blackwell-ghost.png"
-    thumb: true
-    cover: true
-    show_in_post: true
 ---
 <span class="reviewsection">Premise:</span> "This is a real documentary about the existence of ghosts"<br/>
 (kinda spoiled by the fact that it appears as "The Blackwell Ghost 1" on prime and you can see there are eight of them)<br/>

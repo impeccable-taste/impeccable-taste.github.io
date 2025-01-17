@@ -1,17 +1,12 @@
 ---
 title: Beetlejuice Beetlejuice (2024)
 description: Bitelchús Bitelchús (2024)
-skip_description: false
-skip_reading_time: true
 date: 2024-10-30 21:00:55 +0100
 categories: [films, horror]
 tags: [film reviews, horror, comedy horror, secret musical, willem dafoe's cinematic universe, vhs nostalgia, spooktober 2024, they say the title]
 media_subpath: "/assets/img/posts/2024-10-30/"
 image:
     path: "beetlejuice-beetlejuice.png"
-    thumb: true
-    cover: true
-    show_in_post: true
 ---
 <span class="reviewsection">Premise:</span> Is it even possible for Tim Burton to film an okay movie after literally two decades of really bad ones? And yes I consider ***Sleepy Hollow*** his last tolerable one (***Big Fish*** is an exception and I liked it a lot, it's still 20+ years old). Let's find out!<br/>
 <span class="reviewsection">Under 90 minutes?</span> Nope, and there are more than one musical numbers so chances are we could have had a shorter runtime.<br/>

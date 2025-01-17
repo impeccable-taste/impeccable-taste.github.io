@@ -1,17 +1,12 @@
 ---
 title: Divergent Terror (2022)
 description: haha that's so (not pejorative) gay
-skip_description: false
-skip_reading_time: true
 date: 2024-10-28 21:44:43 +0100
 categories: [books, horror]
 tags: [book reviews, horror, essays, spooktober 2024, they don't say the title]
 media_subpath: "/assets/img/posts/2024-10-28/"
 image:
     path: "divergent-terror.png"
-    thumb: true
-    cover: true
-    show_in_post: true
 ---
 <span class="reviewsection">Premise:</span> A collection of essays by queer writers (some well known, others I hadn't heard of before) about horror, otherness (percieved or not), queerness and how closely they are often intertwined.<br/>
 <span class="reviewsection">Under 90 minutes?</span> Nah, but it's not a super long one.<br/>

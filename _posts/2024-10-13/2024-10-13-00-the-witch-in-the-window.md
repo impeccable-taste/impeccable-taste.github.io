@@ -1,18 +1,12 @@
 ---
 title: The Witch in the Window (2018)
 description: The Yawn in the Snore
-skip_description: false
-skip_reading_time: true
 date: 2024-10-13 01:30:19 +0100
 categories: [films, horror]
 tags: [film reviews, horror, hidden ghosts, hagsploitation, haunted-housesploitation, spooktober 2024, they don't say the title]
 media_subpath: "/assets/img/posts/2024-10-13/"
 image:
     path: "the-witch-in-the-window.png"
-    thumb: true
-    cover: true
-    show_in_post: true
-
 ---
 <span class="reviewsection">Premise:</span> One of the most divorced dads ever brings his kid to this remote house in the village so they can repair and flip it. But would you believe the ghost of the previous owner might still be around... *in the window*!?<br/>
 <span class="reviewsection">Under 90 minutes?</span> Thankfully, yes.<br/>

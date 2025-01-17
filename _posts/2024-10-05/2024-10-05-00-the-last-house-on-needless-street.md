@@ -1,17 +1,12 @@
 ---
 title: The Last House on Needless Street (2021)
 description: Garfield and Friends
-skip_description: false
-skip_reading_time: true
 date: 2024-10-05 19:02:19 +0100
 categories: [books, horror]
 tags: [book reviews, horror, spooktober 2024, haunted-housesploitation, they don't say the title]
 media_subpath: "/assets/img/posts/2024-10-05/"
 image:
     path: "the-last-house-on-needless-street.png"
-    thumb: true
-    cover: true
-    show_in_post: true
 ---
 <span class="reviewsection">Premise:</span> It's the anniversary of this little girl's disappearance and everyone is very weird in this neighbourhood. Also one of the narrators is a cat called Olivia who completely steals the show.<br/>
 <span class="reviewsection">Under 90 minutes?</span> nope, it's 300 and something pages and i'm not *Number “Johnny” Five* of ***Short Circuit*** fame.<br/>

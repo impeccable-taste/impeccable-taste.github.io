@@ -1,18 +1,12 @@
 ---
 title: The Fifth Thoratic Vertebra (2022)
 description: hahahaha oh nooooo nonononono NO ewwwww hahaha ew
-skip_description: false
-skip_reading_time: true
 date: 2024-10-14 11:58:14 +0100
 categories: [films, horror]
 tags: [film reviews, horror, horror comedy, body horror, shorts, what the hell was that, ñam ñam qué rico, spooktober 2024, they don't say the title]
 media_subpath: "/assets/img/posts/2024-10-14/"
 image:
     path: "the-fifth-thoratic-vertebra.png"
-    thumb: true
-    cover: true
-    show_in_post: true
-
 ---
 ![do the mario](the-fifth-thoratic-vertebra-2.png)
 <span class="reviewsection">Premise:</span> Chronicling the travels and adventures of a moldy (and I mean *moldy*) mattress, how that mold is kind of achieving conscience by eating vertebras and how *extremely crust punk* korean people are to sleep on top of that garbage.<br/>

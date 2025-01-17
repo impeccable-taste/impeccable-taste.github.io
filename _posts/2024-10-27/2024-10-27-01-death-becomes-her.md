@@ -1,18 +1,12 @@
 ---
 title: Death Becomes Her (1992)
 description: The Substance (2024)
-skip_description: false
-skip_reading_time: true
 date: 2024-10-27 20:22:38 +0100
 categories: [films, horror]
 tags: [film reviews, horror, horror comedy, hagsploitation, buttsploitation, spooktober 2024, they don't say the title]
 media_subpath: "/assets/img/posts/2024-10-27/"
 image:
     path: "death-becomes-her.png"
-    thumb: true
-    cover: true
-    show_in_post: true
-
 ---
 <span class="reviewsection">Premise:</span> kind of a ridiculous premise where we are supposed to think that 1992's Meryl Streep and Goldie Hawn looked old and desperately needed to take some elixir of eternal youth to patch things up, but it's played for laughs so it's okay. Anyway, it's a bad idea to drink stuff like that, movies have taught me.<br/>
 <span class="reviewsection">Under 90 minutes?</span> I thought it was, but...<br/>

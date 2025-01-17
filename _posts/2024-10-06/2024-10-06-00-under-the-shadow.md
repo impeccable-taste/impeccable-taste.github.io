@@ -1,17 +1,12 @@
 ---
 title: Under the Shadow (2016)
 description: A24's Wishmaster according to the internet
-skip_description: false
-skip_reading_time: true
 date: 2024-10-06 19:31:13 +0100
 categories: [films, horror]
 tags: [film reviews, horror, spooktober 2024, vhs nostalgia, haunted-housesploitation, they don't say the title]
 media_subpath: "/assets/img/posts/2024-10-06/"
 image:
     path: "under-the-shadow.png"
-    thumb: true
-    cover: true
-    show_in_post: true
 ---
 <span class="reviewsection">Premise:</span> Set in Iran in the early eighties very shortly after the revolution, the movie is about a mom, her kid and something haunting their house right before they can move out of Tehran. A couple of friends recommended me this saying they were reminded of both ***The Babadook*** and ***A Girl Walks Alone at Night***.<br/>
 <span class="reviewsection">Under 90 minutes?</span> Yes!<br/>

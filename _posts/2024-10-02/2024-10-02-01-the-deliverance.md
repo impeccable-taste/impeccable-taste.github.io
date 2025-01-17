@@ -1,17 +1,12 @@
 ---
 title: The Deliverance (2024)
 description: Oh, how the mighty have fallen
-skip_description: false
-skip_reading_time: true
 date: 2024-10-02 22:44:18 +0100
 categories: [films, horror]
 tags: [film reviews, horror, satanic panic, netflixcore, spooktober 2024, hagsploitation, haunted-housesploitation, they say the title]
 media_subpath: "/assets/img/posts/2024-10-02/"
 image:
     path: "the-deliverance.png"
-    thumb: true
-    cover: true
-    show_in_post: true
 ---
 <span class="reviewsection">Premise:</span> Rihanna's body double, Glenn Close and that Stranger Things kid move to a new house and the basement's not great.<br/>
 <span class="reviewsection">Under 90 minutes?</span> good *lord*, no, it wasn't and it actually felt like it was a million hours long.<br/>

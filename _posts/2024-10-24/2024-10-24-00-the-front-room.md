@@ -1,17 +1,12 @@
 ---
 title: The Front Room (2024)
 description: Oh, that's a boss from Blasphemous
-skip_description: false
-skip_reading_time: true
 date: 2024-10-24 23:26:05 +0100
 categories: [films, horror]
 tags: [film reviews, horror, horror comedy, hagsploitation, fartsploitation, buttsploitation, spooktober 2024, they say the title]
 media_subpath: "/assets/img/posts/2024-10-24/"
 image:
     path: "the-front-room.png"
-    thumb: true
-    cover: true
-    show_in_post: true
 ---
 <span class="reviewsection">Premise:</span> So Belinda (Belinderr?) is a very pregnant lady who, along with the Doormant Elemental he calls "husband”,
 house. We're told they're hardly making ends meet. *Anyhoo*, stuff happens and the husband's extremely old and ill, extremely religious in a creepy "*speaks in tongues*" way, extremely southern, extremely racist stepmom (but i repeat myself hur hur) unilaterally decides to move in with them. Oh, Belinderr is black btw, I forgot to say.<br/>

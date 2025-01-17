@@ -13,7 +13,5 @@
 {%- endif -%}
 {%- endcapture -%}
 
-{% if post.skip_description == nil or post.skip_description != nil and post.skip_description == false %}
-  {{- description | strip | truncate: max_length | escape -}}
-{%- endif -%}
+{{- description | strip | truncate: max_length | escape -}}
 
