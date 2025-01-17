@@ -5,7 +5,7 @@ skip_description: false
 skip_reading_time: true
 date: 2024-10-05 19:02:19 +0100
 categories: [books, horror]
-tags: [book reviews, horror, spooktober 2024, haunted-housesplotaition, they don't say the title]
+tags: [book reviews, horror, spooktober 2024, haunted-housesploitation, they don't say the title]
 media_subpath: "/assets/img/posts/2024-10-05/"
 image:
     path: "the-last-house-on-needless-street.png"

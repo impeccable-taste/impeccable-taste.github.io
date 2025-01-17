@@ -5,7 +5,7 @@ skip_description: false
 skip_reading_time: true
 date: 2024-10-01 21:52:51 +0100
 categories: [films, horror]
-tags: [film reviews, horror, spooktober 2024, hagsploitation, haunted-housesplotaition, they don't say the title]
+tags: [film reviews, horror, spooktober 2024, hagsploitation, haunted-housesploitation, they don't say the title]
 media_subpath: "/assets/img/posts/2024-10-01/"
 image:
     path: "the-blackwell-ghost.png"

@@ -5,7 +5,7 @@ skip_description: false
 skip_reading_time: true
 date: 2025-01-12 10:21:00 +0100
 categories: [films, horror]
-tags: [film reviews, horror, horror comedy, found footage, screenlife, hidden ghosts, haunted-housesplotaition, influencers!, they say the title]
+tags: [film reviews, horror, horror comedy, found footage, screenlife, hidden ghosts, haunted-housesploitation, influencers!, they say the title]
 media_subpath: "/assets/img/posts/2025-01-12/"
 image:
     path: "mind-body-spirit.png"
