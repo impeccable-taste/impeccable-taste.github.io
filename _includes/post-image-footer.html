@@ -2,5 +2,4 @@
 {% if page.image %}
     {% assign src = page.image.path | default: page.image | replace: ".png", "-cover.png" %}
     <p><a href='{{src}}' class="popup img-link shimmer" style="justify-content: center;"><img src='{{src}}' alt='{{page.title}}' style="width:60%"></a></p>
-    {% endif %}
 {% endif %}
