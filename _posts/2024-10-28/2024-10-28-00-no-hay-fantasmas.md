@@ -5,7 +5,7 @@ skip_description: false
 skip_reading_time: true
 date: 2024-10-28 20:36:03 +0100
 categories: [films, horror]
-tags: [film reviews, horror, shorts, haunted-housesploitation, spooktober 2024. they say the title]
+tags: [film reviews, horror, shorts, haunted-housesplotaition, spooktober 2024. they say the title]
 media_subpath: "/assets/img/posts/2024-10-28/"
 image:
     path: "no-hay-fantasmas.png"
