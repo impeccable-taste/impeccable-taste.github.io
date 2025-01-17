@@ -5,7 +5,7 @@ skip_description: false
 skip_reading_time: true
 date: 2024-10-28 21:44:43 +0100
 categories: [books, horror]
-tags: [book reviews, horror, essays, spooktober 2024, they do not say the title]
+tags: [book reviews, horror, essays, spooktober 2024, they don't say the title]
 media_subpath: "/assets/img/posts/2024-10-28/"
 image:
     path: "divergent-terror.png"
