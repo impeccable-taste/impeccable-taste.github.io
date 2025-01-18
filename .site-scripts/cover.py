@@ -76,14 +76,15 @@ def download_and_resize_poster(movie_name, day, release_year=None):
             img_resized.save(poster_filename)
 
         print(f"Poster for '{movie_name}' ({release_year}) saved as '{poster_filename}' and resized to height 500 pixels.")
-        
+
         print(f"IMDb URL for the movie: {movie_url}")
         webbrowser.open(movie_url)  # Open the link in the default browser
 
     except Exception as e:
         print(f"Error: {e}")
 
-# Example usage
+
+
 if __name__ == "__main__":
     movie_name = input("Enter the movie name: ").strip()
     release_year_input = input("Enter the release year (optional): ").strip()

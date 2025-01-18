@@ -1,5 +1,5 @@
 ---
-title: {{TITLE_CAPS}} (RELEASE_YEAR)
+title: {{TITLE_CAPS}} ({{RELEASE_YEAR}})
 description: description
 date: 1969-06-20
 categories: [films, horror]
