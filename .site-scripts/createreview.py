@@ -58,7 +58,7 @@ def download_and_resize_image(image_url, save_location, file_name):
         width, height = img.size
         new_height = 500
         new_width = int((new_height / height) * width)
-        img = img.resize((new_width, new_height), Image.ANTIALIAS)
+        img = img.resize((new_width, new_height))
 
         # Ensure save location exists
         os.makedirs(save_location, exist_ok=True)
@@ -220,11 +220,12 @@ def create_file_structure_and_copy_template(review_name_input, release_year):
         output_file.write(output_content)
 
     print(f"File created: {output_file_path}")
-    download_and_resize_poster(review_filename, review_pretty_title, image_save_location, release_year)
+    release_year_num = int(release_year_input) if release_year_input else None
+    download_and_resize_poster(review_filename, review_pretty_title, image_save_location, release_year_num)
 
 if __name__ == "__main__":
     review_name_input = input("Enter the name: ").strip()
     release_year_input = input("Enter the release year (optional): ").strip()
-    release_year = int(release_year_input) if release_year_input else None
+    release_year = release_year_input if release_year_input else None
 
     create_file_structure_and_copy_template(review_name_input, release_year)
