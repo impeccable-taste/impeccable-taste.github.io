@@ -87,7 +87,15 @@ def download_and_resize_poster(movie_filename, movie_pretty_title, image_save_lo
         if release_year:
             movie = next((m for m in results if 'year' in m and m['year'] == release_year), None)
             if not movie:
-                raise ValueError(f"Movie '{movie_pretty_title}' ({release_year}) not found on IMDb.")
+                print(f"\tOops: Movie '{movie_pretty_title}' ({release_year}) not found on IMDb!")
+                release_year_input = input("Try with another year? (optional, -1 to quit): ").strip()
+                release_year_input = release_year_input if release_year_input else None
+                release_year_num = int(release_year_input) if release_year_input else None
+                if (release_year_num) and (release_year_num == -1):
+                    raise ValueError(f"\tYou chose not to keep looking")
+                else:
+                    download_and_resize_poster(movie_filename, movie_pretty_title, image_save_location, release_year_num)
+                    return
         else:
             # Ask the user to choose if multiple results are found
             print(f"Multiple results found for '{movie_pretty_title}':")
