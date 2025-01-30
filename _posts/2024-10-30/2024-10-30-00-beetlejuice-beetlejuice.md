@@ -2,7 +2,7 @@
 title: Beetlejuice Beetlejuice (2024)
 description: Bitelchús Bitelchús (2024)
 date: 2024-10-30 21:00:55 +0100
-categories: [films, horror]
+categories: [films, horror films]
 tags: [film reviews, horror, comedy horror, secret musical, willem dafoe's cinematic universe, vhs nostalgia, spooktober 2024, they say the title]
 media_subpath: "/assets/img/posts/2024-10-30/"
 image:

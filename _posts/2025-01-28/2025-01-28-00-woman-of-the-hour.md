@@ -2,7 +2,7 @@
 title: Woman of the Hour (2023)
 description: TV in the seventies was the worst, unlike - oh.
 date: 2025-01-28 21:52:40 +0100
-categories: [films, thriller]
+categories: [films, thrillers]
 tags: [film reviews, thriller, true crime fans are the worst, they say the title]
 media_subpath: "/assets/img/posts/2025-01-28/"
 image:

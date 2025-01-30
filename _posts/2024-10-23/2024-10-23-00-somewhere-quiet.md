@@ -2,7 +2,7 @@
 title: Somewhere Quiet (2023)
 description: WHERE!?
 date: 2024-10-23 23:16:56 +0100
-categories: [films, thriller]
+categories: [films, thrillers]
 tags: [film reviews, thriller, vacationsploitation, spooktober 2024, they don't say the title]
 media_subpath: "/assets/img/posts/2024-10-23/"
 image:

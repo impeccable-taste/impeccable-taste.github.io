@@ -2,7 +2,7 @@
 title: Life of Belle (2024)
 description: Youtube was a mistake
 date: 2025-01-30 21:12:19 +0100
-categories: [films, horror]
+categories: [films, horror films]
 tags: [film reviews, horror, found footage, haunted-housesploitation, the internet is scary, influencers!, they say the title]
 media_subpath: "/assets/img/posts/2025-01-30/"
 image:

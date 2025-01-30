@@ -4,7 +4,7 @@ description: when do you pound? I book on tuesdays
 skip_description: false
 skip_reading_time: true
 date: 2024-10-06 20:23:56 +0100
-categories: [games, horror]
+categories: [games, horror games]
 tags: [game reviews, horror, spooktober 2024, there was an attempt, they don't say the title]
 media_subpath: "/assets/img/posts/2024-10-06/"
 image:

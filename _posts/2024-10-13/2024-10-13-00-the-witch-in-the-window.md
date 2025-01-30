@@ -2,7 +2,7 @@
 title: The Witch in the Window (2018)
 description: The Yawn in the Snore
 date: 2024-10-13 01:30:19 +0100
-categories: [films, horror]
+categories: [films, horror films]
 tags: [film reviews, horror, hidden ghosts, hagsploitation, haunted-housesploitation, spooktober 2024, they don't say the title]
 media_subpath: "/assets/img/posts/2024-10-13/"
 image:

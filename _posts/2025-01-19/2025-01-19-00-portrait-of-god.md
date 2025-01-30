@@ -2,7 +2,7 @@
 title: Portrait of God (2022)
 description: This meeting could have been an email
 date: 2025-01-19 16:51:47 +0100
-categories: [films, horror]
+categories: [films, horror films]
 tags: [film reviews, horror, shorts, spooky painting, cool weird crap, they say the title]
 media_subpath: "/assets/img/posts/2025-01-19/"
 image:

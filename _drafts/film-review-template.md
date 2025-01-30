@@ -2,7 +2,7 @@
 title: {{TITLE_CAPS}} ({{RELEASE_YEAR}})
 description: description
 date: 1969-06-20
-categories: [films, horror]
+categories: [films, horror films]
 tags: [film reviews, horror]
 media_subpath: "/assets/img/posts/{{DATE}}/"
 image:

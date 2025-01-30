@@ -2,7 +2,7 @@
 title: Divergent Terror (2022)
 description: haha that's so (not pejorative) gay
 date: 2024-10-28 21:44:43 +0100
-categories: [books, horror]
+categories: [books, horror books]
 tags: [book reviews, horror, essays, spooktober 2024, they don't say the title]
 media_subpath: "/assets/img/posts/2024-10-28/"
 image:

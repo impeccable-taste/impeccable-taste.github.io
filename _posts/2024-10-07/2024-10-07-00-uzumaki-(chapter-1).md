@@ -2,7 +2,7 @@
 title: Uzumaki (first chapter, 2024)
 description: Boy do I like spirals
 date: 2024-10-07 22:36:29 +0100
-categories: [shows, horror]
+categories: [shows, horror shows]
 tags: [show reviews, horror, body horror, anime, spooktober 2024, they say the title]
 media_subpath: "/assets/img/posts/2024-10-07/"
 image:

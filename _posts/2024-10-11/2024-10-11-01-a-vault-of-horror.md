@@ -2,7 +2,7 @@
 title: A Vault of Horror (2024)
 description: Let me tell you of the days of HIGH ADVENTURE
 date: 2024-10-11 12:12:01 +0100
-categories: [books, horror]
+categories: [books, horror books]
 tags: [book reviews, horror, horror comedy, cool weird crap, high heels and leather, spooktober 2024, they don't say the title]
 media_subpath: "/assets/img/posts/2024-10-11/"
 image:

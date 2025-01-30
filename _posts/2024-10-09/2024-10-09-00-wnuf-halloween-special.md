@@ -2,7 +2,7 @@
 title: WNUF Halloween Special (2016)
 description: description
 date: 2024-10-09 00:42:11 +0100
-categories: [films, horror]
+categories: [films, horror films]
 tags: [film reviews, horror, horror comedy, found footage, haunted-housesploitation, spooktober 2024]
 media_subpath: "/assets/img/posts/2024-10-09/"
 image:

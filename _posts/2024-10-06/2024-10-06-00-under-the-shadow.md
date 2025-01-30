@@ -2,7 +2,7 @@
 title: Under the Shadow (2016)
 description: A24's Wishmaster according to the internet
 date: 2024-10-06 19:31:13 +0100
-categories: [films, horror]
+categories: [films, horror films]
 tags: [film reviews, horror, spooktober 2024, vhs nostalgia, haunted-housesploitation, they don't say the title]
 media_subpath: "/assets/img/posts/2024-10-06/"
 image:

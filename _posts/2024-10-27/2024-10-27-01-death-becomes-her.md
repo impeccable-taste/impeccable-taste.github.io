@@ -2,7 +2,7 @@
 title: Death Becomes Her (1992)
 description: The Substance (2024)
 date: 2024-10-27 20:22:38 +0100
-categories: [films, horror]
+categories: [films, horror films]
 tags: [film reviews, horror, horror comedy, hagsploitation, buttsploitation, spooktober 2024, they don't say the title]
 media_subpath: "/assets/img/posts/2024-10-27/"
 image:
