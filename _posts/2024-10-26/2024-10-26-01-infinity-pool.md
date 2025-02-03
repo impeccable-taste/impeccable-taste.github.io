@@ -3,7 +3,7 @@ title: Infinity Pool (2023)
 description: I'll try anything once
 date: 2024-10-26 21:57:27 +0100
 categories: [films, horror films]
-tags: [film reviews, horror, just nepo baby things, body horror, featuring a dog, the writer's barely-disguised fetish, vacationsploitation, accurate portrayal of another country, high heels and leather, spooktober 2024, they say the title]
+tags: [film reviews, horror, just nepo baby things, body horror, altered states, featuring a dog, the writer's barely-disguised fetish, vacationsploitation, accurate portrayal of another country, high heels and leather, spooktober 2024, they say the title]
 media_subpath: "/assets/img/posts/2024-10-26/"
 image:
     path: "infinity-pool.png"
