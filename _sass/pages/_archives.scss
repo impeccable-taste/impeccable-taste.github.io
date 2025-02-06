@@ -61,6 +61,42 @@
     }
   }
 
+  .month-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: var(--text-muted);
+    margin-left: 6.5rem;
+    position: relative;
+    top: 0.5rem;
+    display: block;
+    white-space: nowrap;
+
+    &::before {
+      content: '';
+      position: absolute;
+      left: -1.87rem;
+      top: -0.9rem;
+      width: 10px;
+      height: 5px;
+      background-color: var(--timeline-node-bg);
+      border-radius: 15%;
+      box-shadow: 0 0 2px 0 #c2c6cc;
+    }
+
+    &::after {
+      content: '';
+      position: absolute;
+      left: -1.95rem;
+      top: 0.7rem;
+      width: 12px;
+      height: 12px;
+      background-color: var(--timeline-node-bg);
+      border-radius: 50%;
+      box-shadow: 0 0 2px 0 #c2c6cc;
+    }
+  }
+
+
   ul {
     li {
       font-size: 1.1rem;

@@ -1,24 +1,31 @@
 ---
 layout: page
-# The Archives of posts.
 ---
-
 {% include lang.html %}
 
 {% assign df_strftime_m = site.data.locales[lang].df.archives.strftime | default: '/ %m' %}
 {% assign df_dayjs_m = site.data.locales[lang].df.archives.dayjs | default: '/ MM' %}
+{% assign df_strftime_m_full = '%B' %}  <!-- Full month name -->
 
 <div id="archives" class="pl-xl-3">
   {% for post in site.posts %}
     {% assign cur_year = post.date | date: '%Y' %}
+    {% assign cur_month = post.date | date: '%m' %}
+    {% assign month_name = post.date | date: df_strftime_m_full %}
 
     {% if cur_year != last_year %}
       {% unless forloop.first %}</ul>{% endunless %}
 
       <time class="year lead d-block">{{ cur_year }}</time>
+      {% assign last_month = "" %}  <!-- Reset month tracker when year changes -->
       {{ '<ul class="list-unstyled">' }}
 
       {% assign last_year = cur_year %}
+    {% endif %}
+
+    {% if cur_month != last_month %}
+      <div class="month-title small text-muted">{{ month_name }}</div>
+      {% assign last_month = cur_month %}
     {% endif %}
 
     <li>
