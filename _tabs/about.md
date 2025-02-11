@@ -7,7 +7,7 @@ order: 4
 I like watching movies, petting dogs and praising Satan. I also like talking about those things.
 
 ## What an Impeccable Taste!
-Let's be honest, I have some objectively great opinions about stuff, I'm that lucky. Some people take things too seriously so I figured we could strip reviews down to the most important thing: bad jokes, hot takes and making fun of IMDB user content.<br/>
+Let's be honest, I have some objectively great opinions about stuff, I'm that lucky. Some people take things too seriously so I figured we could strip reviews down to the most important thing: bad jokes, hot takes and making fun of IMDb user content.<br/>
 And so.
 
 ## And so.

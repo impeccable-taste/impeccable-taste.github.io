@@ -16,5 +16,5 @@ image:
 <span class="reviewsection">Rating:</span> The lady does a very good job but not enough to save it, unfortunately. Give it a pass.<br/>
 <span class="reviewsection">A simple way to improve it:</span> It really could use without one out of the ten or twenty different plot threads it tries to go for. Sometimes simpler is better.
 
-<span class="reviewsection">Trivia about the IMDB trivia:</span><br/>
-Apparently this is called ***El Exorcismo*** in Spanish according to IMDB, which means it would be *impossible* to tell this movie apart from a thousand other ones called basically the same thing. Good work!
+<span class="reviewsection">Trivia about the IMDb trivia:</span><br/>
+Apparently this is called ***El Exorcismo*** in Spanish according to IMDb, which means it would be *impossible* to tell this movie apart from a thousand other ones called basically the same thing. Good work!

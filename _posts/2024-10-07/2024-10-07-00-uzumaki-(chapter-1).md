@@ -16,7 +16,7 @@ image:
 <span class="reviewsection">Rating:</span> if the pacing was slightly better it would get full marks.<br/>
 <span class="reviewsection">A simple way to improve it:</span> everyone gets super sweaty on this show, I say let's give each character a handkerchief.
 
-<span class="reviewsection">Trivia about the IMDB trivia:</span>
+<span class="reviewsection">Trivia about the IMDb trivia:</span>
 > Did you know
 >
 > **Connections**

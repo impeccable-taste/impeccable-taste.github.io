@@ -16,6 +16,6 @@ image:
 <span class="reviewsection">Rating:</span> still hilarious, the practical effects still look great, all three main actors are amazingly on point and yeah it's extremely light on the story department but who cares.<br/>
 <span class="reviewsection">A simple way to improve it:</span>
 
-<span class="reviewsection">Trivia about the IMDB trivia:</span>
+<span class="reviewsection">Trivia about the IMDb trivia:</span>
 
-If you go to the Pictures section of this movie's IMDB entry you will find out that someone has uploaded the whole scene where the mysterious Lisle von Rhuman is getting out of the bath and you see her butt basically frame-by-frame.<br/>I bet that person's VHS tracking was kind of bonkers around that part of the movie.
+If you go to the Pictures section of this movie's IMDb entry you will find out that someone has uploaded the whole scene where the mysterious Lisle von Rhuman is getting out of the bath and you see her butt basically frame-by-frame.<br/>I bet that person's VHS tracking was kind of bonkers around that part of the movie.

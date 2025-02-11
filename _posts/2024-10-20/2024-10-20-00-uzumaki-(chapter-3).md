@@ -16,7 +16,7 @@ image:
 <span class="reviewsection">Rating:</span> i will never forget the hilariously terrible last 30 seconds when they go "*oh uhm er we forgot to resolve this so here you go!*"<br/>
 <span class="reviewsection">A simple way to improve it:</span> it is okay to cut a plotline sometimes even if it was very present in the original manga.
 
-<span class="reviewsection">Trivia about the IMDB trivia:</span>
+<span class="reviewsection">Trivia about the IMDb trivia:</span>
 > The title series is the japanese word for spiral
 
 [*record scratch*] wait, ***what!?***

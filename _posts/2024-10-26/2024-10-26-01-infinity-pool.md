@@ -16,7 +16,7 @@ image:
 <span class="reviewsection">Rating:</span> Mia Goth is quickly becoming one of my favourite horror actors and I love that she has a hilarious name. It's like a ***Mortadelo*** character, your surname decides what you need to do in life - Muchapastez, Cerebrin, etc<br/>
 <span class="reviewsection">A simple way to improve it:</span> I would add more references to Takashi Miike's filmography. It's not like we're going to run out of movies to quote, after all.
 
-<span class="reviewsection">Trivia about the IMDB trivia:</span>
+<span class="reviewsection">Trivia about the IMDb trivia:</span>
 > This is the second movie in which Alexander Skarsgård plays a writer who hasn't sold a lot of books. The other is ***Godzilla vs. Kong***.
 
 Man, first the books don't sell, then godzilla steps on the bookshop. Sometimes you just can't win.

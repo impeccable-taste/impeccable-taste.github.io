@@ -17,7 +17,7 @@ More or less that's when she starts to notice how a lot of things feel off and n
 <span class="reviewsection">Rating:</span> I thought it was entertaining but I was told this was horror. This was just a thriller, maybe it was like, one of those movies you "watch" while napping after lunch.<br/>
 <span class="reviewsection">A simple way to improve it:</span> the same movie, but Meg is now a kaiju. No other changes and nobody comments on it.
 
-<span class="reviewsection">Trivia about the IMDB trivia:</span>
+<span class="reviewsection">Trivia about the IMDb trivia:</span>
 > After the motorcycle crash the helmet didn't have a scratch on it.
 
 {% include blunder.html %}

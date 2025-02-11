@@ -17,5 +17,5 @@ image:
 <span class="reviewsection">Rating:</span> In a sense the ending was kind of fitting for the show quality. Don't bother.<br/>
 <span class="reviewsection">A simple way to improve it:</span> adapt what I am talking about in the trivia section instead. Better yet: don't, no need.
 
-<span class="reviewsection">Trivia about ~~the IMDB trivia~~ Junji Ito:</span><br/>
+<span class="reviewsection">Trivia about ~~the IMDb trivia~~ Junji Ito:</span><br/>
 Junji Ito has some really funny short stories about how he loves his cats drawn in his usual style. Really recommended.

@@ -16,7 +16,7 @@ image:
 <span class="reviewsection">Rating:</span> that was quite the drop in quality, geez.<br/>
 <span class="reviewsection">A simple way to improve it:</span> maybe this will be controversial but I'd be fine if it took a long long while to make the show, but it looked like that first episode I liked so much. Thank you.
 
-<span class="reviewsection">Trivia about ~~the IMDB trivia~~ Junji Ito:</span><br/>
+<span class="reviewsection">Trivia about ~~the IMDb trivia~~ Junji Ito:</span><br/>
 *Did you know* Junji Ito is a really nice, charming guy?
 
 {% include embed/youtube.html id='Rxdb7zdvDKc' %}

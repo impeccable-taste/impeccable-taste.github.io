@@ -16,7 +16,7 @@ image:
 <span class="reviewsection">Rating:</span> Recommended if you like reading about movies and how they impact your day-to-day.<br/>
 <span class="reviewsection">A simple way to improve it:</span>
 
-<span class="reviewsection">Trivia about the ~~IMDB trivia~~ Goodreads reviews:</span>
+<span class="reviewsection">Trivia about the ~~IMDb trivia~~ Goodreads reviews:</span>
 ![cradle of filth](divergent-terror-review.png)
 
 On second thought I want to change my one line review to this, although I wouldn't say the silliest. Mr Dani Filth and his sicarios are definitely on the top ten though!

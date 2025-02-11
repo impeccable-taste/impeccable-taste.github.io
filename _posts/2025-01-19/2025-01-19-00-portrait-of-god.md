@@ -16,7 +16,7 @@ image:
 <span class="reviewsection">Rating:</span> Surprisingly enjoyable, a definite improvement over your usual crappy youtube horror short. Some really subtle unsettling stuff happening too.<br/>
 <span class="reviewsection">A simple way to improve it:</span> if I was Mia I would have randomly interrupted the presentation several times going "wait can you see-?! BOO! Haha not really, just a joke...... *unless*...?" to lighten the mood. Religious people are very uptight sometimes.
 
-<span class="reviewsection">Trivia about the ~~IMDB trivia~~ Letterboxd reviews:</span>
+<span class="reviewsection">Trivia about the ~~IMDb trivia~~ Letterboxd reviews:</span>
 > Above all things, a film about the importance of always winging your presentations
 
 I wish I had thought of this review first!

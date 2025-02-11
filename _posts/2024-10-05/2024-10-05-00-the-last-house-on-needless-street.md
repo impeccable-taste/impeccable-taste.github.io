@@ -16,5 +16,5 @@ image:
 <span class="reviewsection">Rating:</span> Meh. Maybe do not make your book depend on one specific twist nailing the landing.<br/>
 <span class="reviewsection">A simple way to improve it:</span> add a raccoon friend for the cat.
 
-<span class="reviewsection">Trivia about the ~~IMDB trivia~~ Goodreads reviews:</span><br/>
+<span class="reviewsection">Trivia about the ~~IMDb trivia~~ Goodreads reviews:</span><br/>
 I like when you check user reviews and you see a lot of them are basically saying the same thing, except the score is either 0 or 10.

@@ -18,7 +18,7 @@ image:
 <span class="reviewsection">Rating:</span> The mushroomy visual bits were cool, the uh metaphore thing it was going for was okay, but maybe it could have benefited from being shorter and maybe I was expecting a ton more of disgusting glibs and blobs. I cannot recommend though.<br/>
 <span class="reviewsection">A simple way to improve it:</span> Let's make this movie about cheese, people eating cheese and the Inventor of Cheese instead.
 
-<span class="reviewsection">Trivia about ~~the IMDB trivia~~ letterboxd reviews:</span>
+<span class="reviewsection">Trivia about ~~the IMDb trivia~~ letterboxd reviews:</span>
 > ⭐⭐⭐⭐
 >
 > This is a movie about a mattress with a fungus growing in it and it made me weep because of how beautiful it is that humans can feel love

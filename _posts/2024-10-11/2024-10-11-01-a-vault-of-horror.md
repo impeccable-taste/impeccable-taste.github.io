@@ -16,7 +16,7 @@ image:
 <span class="reviewsection">Rating:</span> Do you like reading about movies? If so, go for it! If not, what the hell are you doing here?<br/>
 <span class="reviewsection">A simple way to improve it:</span> I think the author and I should shake hands, become good friends, maybe fight crime together??? haha just a joke.... *unless...?*
 
-<span class="reviewsection">Trivia about the ~~IMDB trivia~~ Amazon reviews:</span>
+<span class="reviewsection">Trivia about the ~~IMDb trivia~~ Amazon reviews:</span>
 > Contents aside, a low quality printed by Amazon thing pretending to be a book
 
 wait, so... did I buy a *mimic*???=?¿

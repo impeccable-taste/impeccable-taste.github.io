@@ -16,7 +16,7 @@ image:
 <span class="reviewsection">Rating:</span> It's fun because of how purposefully low cost everything looks, but ultimately it's a pretty pointless thing<br/>
 <span class="reviewsection">A simple way to improve it:</span> I'm sure this didn't need to go to commercials as often as it did. ***Ghostwatch*** was way more effective without doing that all the time!
 
-<span class="reviewsection">Trivia about the IMDB trivia:</span>
+<span class="reviewsection">Trivia about the IMDb trivia:</span>
 > The alien ships featured the commercial for the Saturday morning sci-fi show are a model of the D7 Klingon Battle Cruiser from Star Trek: The Original Series (1966)
 
 {% include knowing.html %}

@@ -24,5 +24,5 @@ image:
 <span class="reviewsection">Rating:</span> Full dark, no stars.<br/>
 <span class="reviewsection">A simple way to improve it:</span> hire a translator or at least a proofreader, goodness gracious.
 
-<span class="reviewsection">Trivia about the ~~IMDB trivia~~ steam reviews:</span>
+<span class="reviewsection">Trivia about the ~~IMDb trivia~~ steam reviews:</span>
 One of the reviews brought up ***Faith**** and hey that was a fun satanic panic 80s slock game. Surprisingly most reviews for this crap are positive?

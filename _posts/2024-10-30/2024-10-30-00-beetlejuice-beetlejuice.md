@@ -16,7 +16,7 @@ image:
 <span class="reviewsection">Rating:</span> Surprisingly funny but it's also like, five different short movies strewn together for some reason. There's also way too much Known Pedo and Sex Offender Jeffrey Jones here even if he's not really in the movie.<br/>
 <span class="reviewsection">A simple way to improve it:</span>
 
-<span class="reviewsection">Trivia about the IMDB trivia:</span>
+<span class="reviewsection">Trivia about the IMDb trivia:</span>
 > During an appearance on the *Happy, Sad, Confused* podcast, Winona Ryder admitted that she considered Beetlejuice and Lydia's "*endgame*" and advocated for them getting together
 
 But... but they do. Hasn't Winona watched the cartoon??? They go on adventures together all the time!

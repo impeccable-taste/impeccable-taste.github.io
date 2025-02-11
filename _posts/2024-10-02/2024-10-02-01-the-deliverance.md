@@ -16,7 +16,7 @@ image:
 <span class="reviewsection">Rating:</span> the... first half is sort of okay I guess. Also they say the movie title. Uh.<br/>
 <span class="reviewsection">A simple way to improve it:</span> please do not be mean to Satan, our lord and master. It's not his fault you bought a megahaunted house.
 
-<span class="reviewsection">Trivia about the IMDB trivia:</span>
+<span class="reviewsection">Trivia about the IMDb trivia:</span>
 > After the birthday party, Ebony Jackson is wearing Shante's "birthday girl" tiara. Between several cuts, it switches from normal to reversed and back to normal again
 
 {% include blunder.html %}

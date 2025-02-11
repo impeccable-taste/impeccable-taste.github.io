@@ -17,8 +17,8 @@ house. We're told they're hardly making ends meet. *Anyhoo*, stuff happens and t
 <span class="reviewsection">Rating:</span> honestly it's not great but it's so dumb it's funny, I had a great time! The grandma is revolting, that's some amazing casting.<br/>
 <span class="reviewsection">A simple way to improve it:</span> I'd say lean in more on the farts angle but they already did so, well. Here we are, no notes.
 
-<span class="reviewsection">Trivia about the IMDB trivia:</span>
+<span class="reviewsection">Trivia about the IMDb trivia:</span>
 
-Let's see what the user reviews at IMDB think of this movie!
+Let's see what the user reviews at IMDb think of this movie!
 ![oh dear](the-front-room-reviews.png)
 For some reason I feel like bumping the score up now.

@@ -16,7 +16,7 @@ image:
 <span class="reviewsection">Rating:</span> Yeah, this one is a strong recommend, even if like me you know about the based-on-a-true-story plot points. Really solid movie.<br/>
 <span class="reviewsection">A simple way to improve it:</span> I want Anna Kendrick to ask more uncomfortable questions and definitely more of bachellor #1 making an absolute fool of himself!!!
 
-<span class="reviewsection">Trivia about the IMDB trivia:</span>
+<span class="reviewsection">Trivia about the IMDb trivia:</span>
 > Almost everything about the "Dating Game" TV taping was fictionalized for dramatic effect.
 - In the film, Rodney Alcala sits in the last chair as Bachelor #3. In real life, he was bachelor #1.
 - [a million more examples of small changes as important as that one]

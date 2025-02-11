@@ -16,5 +16,5 @@ image:
 <span class="reviewsection">Rating:</span> The first time I saw the titular witch I was like "okay *here we go*!" so it gets that.<br/>
 <span class="reviewsection">A simple way to improve it:</span> Maybe if they went full Mike Flanagan about this, including hiring Kate Siegel...?
 
-<span class="reviewsection">Trivia about ~~the IMDB trivia~~ how I watched this movie:</span><br/>
-Remember the ***Magic Eye*** thing where you need to go all crosseyed to see a bad 3d render? There are a couple of scenes where they point the camera directly at one of those Magic Eye things, and OF COURSE I paused the movie to check what was hidden there. And OF COURSE I didn't get it right at all and I had to check the imdb trivia because what the hell.
+<span class="reviewsection">Trivia about ~~the IMDb trivia~~ how I watched this movie:</span><br/>
+Remember the ***Magic Eye*** thing where you need to go all crosseyed to see a bad 3d render? There are a couple of scenes where they point the camera directly at one of those Magic Eye things, and OF COURSE I paused the movie to check what was hidden there. And OF COURSE I didn't get it right at all and I had to check the IMDb trivia because what the hell.
