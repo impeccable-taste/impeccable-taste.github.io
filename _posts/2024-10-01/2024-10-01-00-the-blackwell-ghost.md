@@ -3,7 +3,7 @@ title: The Blackwell Ghost (2017)
 description: Is there anything scarier than... NOTHING?
 date: 2024-10-01 21:52:51 +0100
 categories: [films, horror films]
-tags: [film reviews, horror, spooktober 2024, hagsploitation, haunted-housesploitation, they don't say the title]
+tags: [film reviews, horror, spooktober 2024, lowbudgetcore, hagsploitation, haunted-housesploitation, they don't say the title]
 media_subpath: "/assets/img/posts/2024-10-01/"
 image:
     path: "the-blackwell-ghost.png"

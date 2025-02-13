@@ -3,7 +3,7 @@ title: Uzumaki (final chapter, 2024)
 description: Good riddance
 date: 2024-10-22 22:54:47 +0100
 categories: [shows, horror shows]
-tags: [show reviews, anime, horror, spooktober 2024, they say the title]
+tags: [show reviews, anime, horror, spooktober 2024, lowbudgetcore, they say the title]
 media_subpath: "/assets/img/posts/2024-10-22/"
 image:
     path: "uzumaki-(chapter-4).png"
