@@ -12,7 +12,7 @@ image:
 <span class="reviewsection">Under 90 minutes?</span> It's about an hour.<br/>
 <span class="reviewsection">Do they say the title?</span> Yes they do, to much fanfare.
 
-<span class="reviewsection">One sentence review:</span> I spent a while trying to find out if this was a student project because I didn't want to be too rude to the "*we are clearly about five friends filming this during a couple of weekends*", but apparently it's not so...<br/>
+<span class="reviewsection">One sentence review:</span> I spent a while trying to find out if this was a student project because I didn't want to be too rude to the "*we are clearly about five friends filming this during a couple of weekends*" type of film, but apparently it's not so...<br/>
 <span class="reviewsection">Rating:</span> Look, [I like low budget stuff]({% link tags/lowbudgetcore/index.html %}) and I'm ready to forgive **a lot** when a movie is charming or has something going for it.<br/>This got to embarrassing levels of "I really, *really* liked ***Creep*** and ***Creep 2*** but I don't get why those movies were fun", to the point where they're clearly repeating some scenes. Or maybe it's an homage, I don't know.<br/>Yeah, it's just an hour long but you're better off skipping this one, friends.<br/>
 <span class="reviewsection">A simple way to improve it:</span> for like half of the movie I was constantly thinking about that "*the funeral is about to begin... sir*" quote from ***Phantasm*** which is also featured on ***Hearse*** by allegedly apolitical black metal band *Marduk*. So I think this movie would be way better if it featured a really creepy tall dude, floating chrome balls and I guess some dude tryharding in corpse paint.
 
