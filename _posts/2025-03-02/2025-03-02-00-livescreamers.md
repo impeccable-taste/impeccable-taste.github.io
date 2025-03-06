@@ -3,7 +3,7 @@ title: Livescreamers (2023)
 description: skill issue.
 date: 2025-03-02 21:02:34 +0100
 categories: [films, horror films]
-tags: [film reviews, horror, drama, lowbudgetcore, found footage, screenlife, influencers!, the internet is scary, there was an attempt, they don't say the title]
+tags: [film reviews, horror, drama, lowbudgetcore, found footage, screenlife, influencers!, the internet is scary, there was an attempt, featuring the most obnoxious people on earth, they don't say the title]
 media_subpath: "/assets/img/posts/2025-03-02/"
 image:
     path: "livescreamers.png"
