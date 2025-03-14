@@ -12,7 +12,7 @@ image:
 <span class="reviewsection">Under 90 minutes?</span> Over two hours for some reason.<br/>
 <span class="reviewsection">Do they say the title?</span> Yes, they do. Except after watching it I found out that this is a prequel/remake/something and the actual title is basically ***Dancing Village: The Curse Begins*** and no, they don't say that.
 
-<span class="reviewsection">One sentence review:</span> everyone knows the most black metal way to dance is to just look annoyed, with your eyes crossed and maybe nodding to the beat, anything more than that is overkill.<br/>
+<span class="reviewsection">One sentence review:</span> everyone knows the most black metal way to dance is to just look annoyed, with your arms crossed and maybe nodding to the beat, more than that is overkill.<br/>
 <span class="reviewsection">Rating:</span> there were some cool scenes here and there, a couple of them were actually pretty effective, but in general this was like an hour too long for its own good, the acting was terrible with one or two exceptions and we didn't get enough weird shamanic stuff.<br/>
 <span class="reviewsection">A simple way to improve it:</span> the three friends of our main character all are sporting some of the most terrible mustaches and I think just having an honest, frank conversation with them where you also gifted them a razor would be both an improvement and an act of charity.
 
