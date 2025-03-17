@@ -131,7 +131,7 @@ def download_and_resize_poster(movie_filename, movie_pretty_title, image_save_lo
         save_location = os.path.abspath(image_save_location)
         poster_filename = os.path.join(save_location, f"{movie_filename}-cover.png")
 
-        askquestion = input("is this correct? ["+ poster_filename +"]").strip()
+        askquestion = input("Movie found! ["+ poster_filename +"]").strip()
         if askquestion == "n":
             raise ValueError(f"oops")
 
