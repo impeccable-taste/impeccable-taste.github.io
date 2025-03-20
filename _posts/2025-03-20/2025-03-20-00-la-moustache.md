@@ -1,9 +1,9 @@
 ---
 title: La Moustache (2005)
-description: description
+description: (twirling moustache) no, mr bond, i expect you to *die* hon hon hon
 date: 2025-03-20 23:15:49 +0100
-categories: [films, horror films]
-tags: [film reviews, horror]
+categories: [films, thrillers]
+tags: [film reviews, accurate portrayal of another country, body horror, featuring the most obnoxious people on earth, horror comedy, secret horror movie, thriller, what the hell was that, they say the title]
 media_subpath: "/assets/img/posts/2025-03-20/"
 image:
     path: "la-moustache.png"
