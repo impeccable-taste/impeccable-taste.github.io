@@ -8,7 +8,7 @@ media_subpath: "/assets/img/posts/2025-03-02/"
 image:
     path: "livescreamers.png"
 ---
-<span class="reviewsection">Premise:</span> This is somehow a sequel to ***[Livescream]({% post_url 2024-10-22/2024-10-22-01-livescream %})***, a movie I watched during [SPOOKTOBER 2024]({% link tags/spooktober-2024/index.html %}), a movie I didn't really like that much but I refuse to learn any lessons.<br/>Anyhoo, you know how it goes: you download a game that has a reputation of being cuuuuursed, then your friends start dying. The difference this time is that we are not just dealing with a single fat dude on his room, this time it's a whole group of streamers together!<br/>
+<span class="reviewsection">Premise:</span> This is somehow a sequel to ***[Livescream]({% post_url 2024/2024-10-22/2024-10-22-01-livescream %})***, a movie I watched during [SPOOKTOBER 2024]({% link tags/spooktober-2024/index.html %}), a movie I didn't really like that much but I refuse to learn any lessons.<br/>Anyhoo, you know how it goes: you download a game that has a reputation of being cuuuuursed, then your friends start dying. The difference this time is that we are not just dealing with a single fat dude on his room, this time it's a whole group of streamers together!<br/>
 <span class="reviewsection">Under 90 minutes?</span> It's about that or very close<br/>
 <span class="reviewsection">Do they say the title?</span> No! What the hell?!
 
