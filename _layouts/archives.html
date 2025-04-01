@@ -7,36 +7,37 @@ layout: page
 {% assign df_dayjs_m = site.data.locales[lang].df.archives.dayjs | default: '/ MM' %}
 {% assign df_strftime_m_full = '%B' %}  <!-- Full month name -->
 
+<!-- Group posts by year -->
+{% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+
 <div id="archives" class="pl-xl-3">
-  {% for post in site.posts %}
-    {% assign cur_year = post.date | date: '%Y' %}
-    {% assign cur_month = post.date | date: '%m' %}
-    {% assign month_name = post.date | date: df_strftime_m_full %}
+  {% for year_group in posts_by_year %}
+    {% assign cur_year = year_group.name %}
+    <time class="year lead d-block">{{ cur_year }}</time>
+    <time style="position:relative;bottom: 20px;left: 100px;overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">({{ year_group.items | size }} reviews total)</time>
+    {{ '<ul class="list-unstyled">' }}
 
-    {% if cur_year != last_year %}
-      {% unless forloop.first %}</ul>{% endunless %}
+    <!-- Group posts by month within each year -->
+    {% assign posts_by_month = year_group.items | group_by_exp: "post", "post.date | date: '%m'" %}
 
-      <time class="year lead d-block">{{ cur_year }}</time>
-      {% assign last_month = "" %}  <!-- Reset month tracker when year changes -->
-      {{ '<ul class="list-unstyled">' }}
+    {% for month_group in posts_by_month %}
+      {% assign cur_month = month_group.name %}
+      {% assign month_name = month_group.items[0].date | date: df_strftime_m_full %}
 
-      {% assign last_year = cur_year %}
-    {% endif %}
+      <div class="month-title small text-muted">{{ month_name }} ({{ month_group.items | size }} reviews)</div>
 
-    {% if cur_month != last_month %}
-      <div class="month-title small text-muted">{{ month_name }}</div>
-      {% assign last_month = cur_month %}
-    {% endif %}
+      {% for post in month_group.items %}
+        <li>
+          {% assign ts = post.date | date: '%s' %}
+          <span class="date day" data-ts="{{ ts }}" data-df="DD">{{ post.date | date: '%d' }}</span>
+          <span class="date month small text-muted ms-1" data-ts="{{ ts }}" data-df="{{ df_dayjs_m }}">
+            {{ post.date | date: df_strftime_m }}
+          </span>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </li>
+      {% endfor %}
+    {% endfor %}
 
-    <li>
-      {% assign ts = post.date | date: '%s' %}
-      <span class="date day" data-ts="{{ ts }}" data-df="DD">{{ post.date | date: '%d' }}</span>
-      <span class="date month small text-muted ms-1" data-ts="{{ ts }}" data-df="{{ df_dayjs_m }}">
-        {{ post.date | date: df_strftime_m }}
-      </span>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    </li>
-
-    {% if forloop.last %}</ul>{% endif %}
+    </ul>
   {% endfor %}
 </div>
