@@ -197,7 +197,7 @@ def create_file_structure_and_copy_template(review_name_input, release_year):
         os.makedirs(save_location)
 
     # create destination directory for images
-    image_save_location = IMAGE_LOCATION + "/" + review_publish_year + "/"  + review_publish_date
+    image_save_location = IMAGE_LOCATION + "/" + review_publish_date
     image_save_location = os.path.abspath(image_save_location)
     if not os.path.exists(image_save_location):
         os.makedirs(image_save_location)
