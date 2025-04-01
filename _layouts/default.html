@@ -34,14 +34,14 @@ layout: compress
 
           <!-- panel -->
           <aside aria-label="Panel" id="panel-wrapper" class="col-xl-3 ps-2 text-muted">
-            <div class="access">
-              {% comment %}
-                <!-- Recently Updated (removed) -->
-                {% include_cached update-list.html lang=lang %}
-              {% endcomment %}
-                <!-- Trending tags -->
-              {% include_cached trending-tags.html lang=lang %}
-            </div>
+            {% comment %}
+              <div class="access">
+                  <!-- Recently Updated (removed) -->
+                  {% include_cached update-list.html lang=lang %}
+                  <!-- Trending tags (removed too) -->
+                {% include_cached trending-tags.html lang=lang %}
+              </div>
+            {% endcomment %}
 
             {% for _include in layout.panel_includes %}
               {% assign _include_path = _include | append: '.html' %}
