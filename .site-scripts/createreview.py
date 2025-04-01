@@ -185,18 +185,19 @@ def create_file_structure_and_copy_template(review_name_input, release_year):
         print(f"Error: image location was not found")
         sys.exist(1)
 
+    review_publish_year = datetime.now().strftime("%Y")
     review_publish_date = datetime.now().strftime("%Y-%m-%d")
     full_review_publish_date = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     full_review_publish_date = full_review_publish_date + " +0100"
 
     # create destination directory for the post
-    save_location = save_location + "/" + review_publish_date
+    save_location = save_location + "/" + review_publish_year + "/" + review_publish_date
     save_location = os.path.abspath(save_location)
     if not os.path.exists(save_location):
         os.makedirs(save_location)
 
     # create destination directory for images
-    image_save_location = IMAGE_LOCATION + "/" + review_publish_date
+    image_save_location = IMAGE_LOCATION + "/" + review_publish_year + "/"  + review_publish_date
     image_save_location = os.path.abspath(image_save_location)
     if not os.path.exists(image_save_location):
         os.makedirs(image_save_location)
