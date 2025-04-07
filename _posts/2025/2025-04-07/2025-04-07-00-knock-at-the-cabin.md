@@ -19,4 +19,4 @@ image:
 <span class="reviewsection">Trivia about the IMDb trivia:</span>
 > Director M. Night Shyamalan has a cameo in an air fryer infomercial that briefly appears on the TV before the first news report.
 
-M. Night Shyamalan confirmed air fryer sicko, like yours truly.
+M. Night Shyamalan: confirmed air fryer sicko (like yours truly)
