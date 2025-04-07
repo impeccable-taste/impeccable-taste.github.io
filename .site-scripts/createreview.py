@@ -1,6 +1,7 @@
 import os
 import sys
 import requests
+import time
 import webbrowser
 from datetime import datetime
 from pathlib import Path
@@ -185,10 +186,15 @@ def create_file_structure_and_copy_template(review_name_input, release_year):
         print(f"Error: image location was not found")
         sys.exist(1)
 
+    # gmt offset for daylight savings
+    offset_sec = time.altzone if time.daylight and time.localtime().tm_isdst else time.timezone
+    offset_hours = -offset_sec // 3600
+    gmt_offset = f"{offset_hours:+03d}00"
+
     review_publish_year = datetime.now().strftime("%Y")
     review_publish_date = datetime.now().strftime("%Y-%m-%d")
     full_review_publish_date = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    full_review_publish_date = full_review_publish_date + " +0100"
+    full_review_publish_date = full_review_publish_date + " " + gmt_offset
 
     # create destination directory for the post
     save_location = save_location + "/" + review_publish_year + "/" + review_publish_date
