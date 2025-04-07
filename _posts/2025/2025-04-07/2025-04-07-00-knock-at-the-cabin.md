@@ -1,7 +1,7 @@
 ---
 title: Knock at the Cabin (2023)
 description: I mean if Dave Bautista knocks you might no longer have a door
-date: 2025-04-07 21:28:27 +0100
+date: 2025-04-07 21:28:27 +0200
 categories: [films, horror films]
 tags: [film reviews, horror, secret sad movie, the internet is scary, vacationsploitation, wrong place wrong face, they don't say the title]
 media_subpath: "/assets/img/posts/2025-04-07/"
