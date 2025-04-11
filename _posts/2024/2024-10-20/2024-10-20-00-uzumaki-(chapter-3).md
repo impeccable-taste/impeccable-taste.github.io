@@ -3,7 +3,7 @@ title: Uzumaki (third chapter, 2024)
 description: I'm so tired of all these spirals
 date: 2024-10-20 22:08:36 +0100
 categories: [shows, horror shows]
-tags: [show reviews, horror, body horror, anime, lowbudgetcore, spooktober 2024, they say the title]
+tags: [show reviews, horror, body horror, anime, lowbudgetcore, spooktober 2024, jaypeg horror, they say the title]
 media_subpath: "/assets/img/posts/2024-10-20/"
 image:
     path: "uzumaki-(chapter-3).png"

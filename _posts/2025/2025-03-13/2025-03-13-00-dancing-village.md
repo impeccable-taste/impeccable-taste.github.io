@@ -3,7 +3,7 @@ title: Dancing Village (2024)
 description: See that girl, watch that scene digging the dancing queen
 date: 2025-03-13 22:16:42 +0100
 categories: [films, horror films]
-tags: [film reviews, horror, accurate portrayal of another country, just shaman stuff, altered states, folk horror, secret musical, wrong place wrong face, they say the title]
+tags: [film reviews, horror, accurate portrayal of another country, just shaman stuff, altered states, folk horror, secret musical, long hair is scary, wrong place wrong face, they say the title]
 media_subpath: "/assets/img/posts/2025-03-13/"
 image:
     path: "dancing-village.png"
