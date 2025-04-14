@@ -1,6 +1,6 @@
 ---
 title: Paranormasight - the Seven Mysteries of Honjo (2023)
-description: they did WHAT to those idols!?
+description: they did WHAT to those
 date: 2025-04-14 22:32:15 +0200
 categories: [games, horror games]
 tags: [game reviews, horror, jaypeg horror, accurate portrayal of another country, anime, cool weird crap, folk horror, hidden ghosts, just shaman stuff, let's think our way out, long hair is scary, time shenanigans, vhs nostalgia, wrong place wrong face, they don't say the title]
@@ -15,7 +15,7 @@ image:
 
 <span class="reviewsection">One sentence review:</span> You're cursed - cursed to LIKE this game!!!<br/>
 <span class="reviewsection">Rating:</span> Yeah this was a good game. I really liked the art style, I found the story and characters to be pretty cool. They didn't do a ton of weird stuff with the genre but it was still fun. Actually, I think I like that at some points you were able to guess some of the plot points but unlike other games like ***Phoenix Wright*** or ***Danganronpa*** you weren't punished for being able to read between lines and you actually felt a bit smart, even.<br/>
-<span class="reviewsection">A simple way to improve it:</span> it is the nature of the beast and the more you learn about the plot, the less spoooooooky it feels until it is just a kinda spooky investigation. Not a huge deal, but to be honest in that sense the game went from "hey this is kinda scary" to "well this is a nice story" and things like ***Ringu*** prove you can keep the investigation super scary the whole time. So, yeah, taht.
+<span class="reviewsection">A simple way to improve it:</span> it is the nature of the beast and the more you learn about the plot, the less spoooooooky it feels until it is just a kinda spooky investigation. Not a huge deal, but to be honest in that sense the game went from "hey this is kinda scary" to "well this is a nice story" and things like ***Ringu*** prove you can keep the investigation super scary the whole time. So, yeah, that.
 
 <span class="reviewsection">Trivia about the ~~IMDb trivia~~ Seven Mysteries:</span>
 
