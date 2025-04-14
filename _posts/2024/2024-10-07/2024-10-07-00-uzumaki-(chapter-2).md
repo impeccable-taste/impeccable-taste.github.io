@@ -8,6 +8,7 @@ media_subpath: "/assets/img/posts/2024-10-07/"
 image:
     path: "uzumaki-(chapter-2).png"
 ---
+{% include jaypeghorror.html %}
 <span class="reviewsection">Premise:</span> People get more and more obsessive about spirals, like, grotesquely so.<br/>
 <span class="reviewsection">Under 90 minutes?</span> Still less than 25 minutes!<br/>
 <span class="reviewsection">Do they say the title?</span> Relentlessly.

@@ -8,6 +8,7 @@ media_subpath: "/assets/img/posts/2025-04-11/"
 image:
     path: "A-Strange-House.png"
 ---
+{% include jaypeghorror.html %}
 <span class="reviewsection">Premise:</span> Our dude is one of those really bad youtubers that basically reads spooooky stories or urban legends re-a-lly-slow-ly so they can monetize the video as hard as possible. One day, his uh, cameraman/manager/producer I guess? hands him the floorplan of a house he's thinking about buying, but, he says, his wife is a bit creeped out by it. By the paper, not the house, yes, japanese people in horror movies are very weird.<br/>Now, this is important, what I'm going to say next happens during the first five minutes so I promise I'm not spoiling anything: our hero shows the floorplan to his friend who is a very experienced and also really weird architect, they notice there's this small gap between a couple of rooms with no door and of course *immediately* jump to the obvious conclusion from there...<br/>THE HOUSE WAS BUILT TO **MURDER PEOPLE**.<br/>Yeah, I mean. If you say so.<br/>
 <span class="reviewsection">Under 90 minutes?</span> Nah.<br/>
 <span class="reviewsection">Do they say the title?</span> Yes. Not just that: apparently the movie was also called "floorplan" in some markets and boy do they say that one a million times.

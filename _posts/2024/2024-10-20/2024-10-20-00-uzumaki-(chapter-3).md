@@ -8,6 +8,7 @@ media_subpath: "/assets/img/posts/2024-10-20/"
 image:
     path: "uzumaki-(chapter-3).png"
 ---
+{% include jaypeghorror.html %}
 <span class="reviewsection">Premise:</span> Somehow, ~~Palpatine has returned~~ spirals are still everywhere.<br/>
 <span class="reviewsection">Under 90 minutes?</span> Sure, still twentysomething minutes.<br/>
 <span class="reviewsection">Do they say the title?</span> To be honest they say it so often it's kinda ruining the joke.

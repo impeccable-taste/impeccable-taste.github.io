@@ -8,6 +8,7 @@ media_subpath: "/assets/img/posts/2024-10-22/"
 image:
     path: "uzumaki-(chapter-4).png"
 ---
+{% include jaypeghorror.html %}
 <span class="reviewsection">Premise:</span> The thrilling conclusion to the cosmic horror manga adaptation where "horrible pacing" and "extremely cheap animation" were the surprise guests!<br/>
 <span class="reviewsection">Under 90 minutes?</span> Yeah.<br/>
 <span class="reviewsection">Do they say the title?</span> oh, *take a wild guess*.
