@@ -1,6 +1,6 @@
 ---
 title: Paranormasight - the Seven Mysteries of Honjo (2023)
-description: a
+description: they did WHAT to those idols!?
 date: 2025-04-14 22:32:15 +0200
 categories: [games, horror games]
 tags: [game reviews, horror, jaypeg horror, accurate portrayal of another country, anime, cool weird crap, folk horror, hidden ghosts, just shaman stuff, let's think our way out, long hair is scary, time shenanigans, vhs nostalgia, wrong place wrong face, they don't say the title]
