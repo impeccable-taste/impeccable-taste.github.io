@@ -375,6 +375,20 @@ main {
   margin: 0.75rem 0 1rem 1rem;
 }
 
+.left-image-link {
+  float: left;
+  margin: 0.75rem 1rem 1rem 0;
+  text-decoration: none;
+  border: none !important;
+}
+
+.right-image-link {
+  float: right;
+  margin: 0.75rem 0 1rem 1rem;
+  text-decoration: none;
+  border: none !important;
+}
+
 .right-img {
   float: right;
   margin: 0.75rem 0 1rem 1rem;
