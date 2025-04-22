@@ -3,7 +3,7 @@ title: Anything for Jackson (2020)
 description: And when I say anything, well...
 date: 2025-03-25 10:59:00 +0100
 categories: [films, horror films]
-tags: [film reviews, horror comedy, horror, hagsploitation, haunted-housesploitation, hidden ghosts, satanic panic, they say the title]
+tags: [film reviews, horror comedy, horror, hagsploitation, spooky doll, why would you even keep that thing at home, haunted-housesploitation, hidden ghosts, satanic panic, they say the title]
 media_subpath: "/assets/img/posts/2025-03-25/"
 image:
     path: "anything-for-jackson.png"

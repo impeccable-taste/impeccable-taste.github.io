@@ -3,7 +3,7 @@ title: The Substance (2024)
 description: It's my party and I'll cry if I want to
 date: 2024-10-18 19:17:03 +0100
 categories: [films, horror films]
-tags: [film reviews, horror, body horror, horror comedy, spooktober 2024, the writer's barely-disguised fetish, buttsploitation, they say the title]
+tags: [film reviews, horror, body horror, horror comedy, spooktober 2024, the writer's barely-disguised fetish, why would you even keep that thing at home, buttsploitation, they say the title]
 media_subpath: "/assets/img/posts/2024-10-18/"
 image:
     path: "the-substance.png"

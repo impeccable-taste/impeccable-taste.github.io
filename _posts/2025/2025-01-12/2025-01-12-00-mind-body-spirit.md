@@ -3,7 +3,7 @@ title: Mind Body Spirit (2023)
 description: Yoga instructor meets a spooky grimoire
 date: 2025-01-12 10:21:00 +0100
 categories: [films, horror films]
-tags: [film reviews, horror, horror comedy, found footage, lowbudgetcore, screenlife, hidden ghosts, haunted-housesploitation, influencers!, they say the title]
+tags: [film reviews, horror, horror comedy, found footage, lowbudgetcore, screenlife, hidden ghosts, why would you even keep that thing at home, haunted-housesploitation, influencers!, they say the title]
 media_subpath: "/assets/img/posts/2025-01-12/"
 image:
     path: "mind-body-spirit.png"
