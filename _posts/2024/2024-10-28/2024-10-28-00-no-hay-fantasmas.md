@@ -13,7 +13,7 @@ image:
 <span class="reviewsection">Do they say the title?</span> Yep, in stereo where available.
 
 <span class="reviewsection">One sentence review:</span> cute short story where my issues are with the performance of two out of three characters.<br/>
-<span class="reviewsection">Rating:</span> Perfectly cromulent, there are worse ways to spend 15 minutes.<br/>
+<span class="reviewsection">Okay, more:</span> Perfectly cromulent, there are worse ways to spend 15 minutes.<br/>
 <span class="reviewsection">A simple way to improve it:</span> Let's make sure our main actors do not talk like they are kids that memorized their script.
 
 <span class="reviewsection">Trivia about the ~~IMDb trivia~~ credits:</span><br/>Apparently the third character (the one not mentioned in the premise section) was in ***The Ministry of Time*** and I was like "aaaah that's where I know him from" and then I was like "*wait, i never watched that show*" and now i don't know who he reminds me of?? Hm.

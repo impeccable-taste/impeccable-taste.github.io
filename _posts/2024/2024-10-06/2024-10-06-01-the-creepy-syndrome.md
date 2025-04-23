@@ -21,7 +21,7 @@ image:
 <span class="reviewsection">Do they say the title?</span> Not during my playthrough.
 
 <span class="reviewsection">One sentence review:</span> wonky, predictable and barely trying to do anything with the whole "*it works like an old timey game!*" premise, along with one of the lousiest english translations i've seen in a while.<br/>
-<span class="reviewsection">Rating:</span> Full dark, no stars.<br/>
+<span class="reviewsection">Okay, more:</span> Full dark, no stars.<br/>
 <span class="reviewsection">A simple way to improve it:</span> hire a translator or at least a proofreader, goodness gracious.
 
 <span class="reviewsection">Trivia about the ~~IMDb trivia~~ steam reviews:</span>

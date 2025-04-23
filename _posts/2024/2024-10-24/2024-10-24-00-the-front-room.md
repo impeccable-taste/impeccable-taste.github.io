@@ -14,7 +14,7 @@ house. We're told they're hardly making ends meet. *Anyhoo*, stuff happens and t
 <span class="reviewsection">Do they say the title?</span> Yup, they do! Although the titular front room is not as pivotal as you'd think.
 
 <span class="reviewsection">One sentence review:</span> They end a very tense scene with a loud, loud fart.<br/>
-<span class="reviewsection">Rating:</span> honestly it's not great but it's so dumb it's funny, I had a great time! The grandma is revolting, that's some amazing casting.<br/>
+<span class="reviewsection">Okay, more:</span> honestly it's not great but it's so dumb it's funny, I had a great time! The grandma is revolting, that's some amazing casting.<br/>
 <span class="reviewsection">A simple way to improve it:</span> I'd say lean in more on the farts angle but they already did so, well. Here we are, no notes.
 
 <span class="reviewsection">Trivia about the IMDb trivia:</span>

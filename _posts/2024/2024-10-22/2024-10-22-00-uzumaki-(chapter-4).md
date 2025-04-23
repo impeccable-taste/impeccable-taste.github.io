@@ -15,7 +15,7 @@ image:
 
 <span class="reviewsection">One sentence review:</span>
 {% include the-end-no-moral.html %}
-<span class="reviewsection">Rating:</span> In a sense the ending was kind of fitting for the show quality. Don't bother.<br/>
+<span class="reviewsection">Okay, more:</span> In a sense the ending was kind of fitting for the show quality. Don't bother.<br/>
 <span class="reviewsection">A simple way to improve it:</span> adapt what I am talking about in the trivia section instead. Better yet: don't, no need.
 
 <span class="reviewsection">Trivia about ~~the IMDb trivia~~ Junji Ito:</span><br/>

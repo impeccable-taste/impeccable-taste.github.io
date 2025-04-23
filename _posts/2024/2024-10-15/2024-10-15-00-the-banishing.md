@@ -13,7 +13,7 @@ image:
 <span class="reviewsection">Do they say the title?</span> Nope.
 
 <span class="reviewsection">One sentence review:</span> Seriously, if your dorter starts doing weird creepy rituals with dolls it is maybe about time you talk to her.<br/>
-<span class="reviewsection">Rating:</span> The lady does a very good job but not enough to save it, unfortunately. Give it a pass.<br/>
+<span class="reviewsection">Okay, more:</span> The lady does a very good job but not enough to save it, unfortunately. Give it a pass.<br/>
 <span class="reviewsection">A simple way to improve it:</span> It really could use without one out of the ten or twenty different plot threads it tries to go for. Sometimes simpler is better.
 
 <span class="reviewsection">Trivia about the IMDb trivia:</span><br/>

@@ -14,7 +14,7 @@ image:
 <span class="reviewsection">Do they say the title?</span> Nope.
 
 <span class="reviewsection">One sentence review:</span> bold of you to start your mockumentary with a quote about boring documentaries, way to set the tone.<br/>
-<span class="reviewsection">Rating:</span> eeeeeeeeh not great. It does nothing original.<br/>
+<span class="reviewsection">Okay, more:</span> eeeeeeeeh not great. It does nothing original.<br/>
 <span class="reviewsection">A simple way to improve it:</span> I thought the wife's matter-of-factly ways were funny so let's have more of her constantly questioning how stupid her husband's whole thing is. Imagine being married to that guy, geez.
 
 <span class="reviewsection">Trivia about the IMDb trivia:</span>

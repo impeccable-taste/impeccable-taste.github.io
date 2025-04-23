@@ -13,7 +13,7 @@ image:
 <span class="reviewsection">Do they say the title?</span> It is printed in the cover! Otherwise, no.
 
 <span class="reviewsection">One sentence review:</span> Not only it is very interesting and funny, the writer also adds random unrelated trivia to the reviews so I kept saying "*haha oh you*" all the time because game recognizes game.<br/>
-<span class="reviewsection">Rating:</span> Do you like reading about movies? If so, go for it! If not, what the hell are you doing here?<br/>
+<span class="reviewsection">Okay, more:</span> Do you like reading about movies? If so, go for it! If not, what the hell are you doing here?<br/>
 <span class="reviewsection">A simple way to improve it:</span> I think the author and I should shake hands, become good friends, maybe fight crime together??? haha just a joke.... *unless...?*
 
 <span class="reviewsection">Trivia about the ~~IMDb trivia~~ Amazon reviews:</span>

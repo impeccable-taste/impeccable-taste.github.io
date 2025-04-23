@@ -14,7 +14,7 @@ draft: true
 <span class="reviewsection">Do they say the title?</span>
 
 <span class="reviewsection">One sentence review:</span> <br/>
-<span class="reviewsection">Rating:</span> <br/>
+<span class="reviewsection">Okay, more:</span> <br/>
 <span class="reviewsection">A simple way to improve it:</span>
 
 <span class="reviewsection">Trivia about the IMDb trivia:</span>

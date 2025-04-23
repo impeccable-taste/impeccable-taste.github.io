@@ -13,7 +13,7 @@ image:
 <span class="reviewsection">Do they say the title?</span> Yep, and by that I mean they say Beetlejuice's name twice and stop, so this gets full marks.
 
 <span class="reviewsection">One sentence review:</span> The spanish word for "*expanded polystyrene*" is "*corchopán*", and this movie is full of that, puppets, goo/jelly and practical effects.<br/>
-<span class="reviewsection">Rating:</span> Surprisingly funny but it's also like, five different short movies strewn together for some reason. There's also way too much Known Pedo and Sex Offender Jeffrey Jones here even if he's not really in the movie.<br/>
+<span class="reviewsection">Okay, more:</span> Surprisingly funny but it's also like, five different short movies strewn together for some reason. There's also way too much Known Pedo and Sex Offender Jeffrey Jones here even if he's not really in the movie.<br/>
 <span class="reviewsection">A simple way to improve it:</span>
 
 <span class="reviewsection">Trivia about the IMDb trivia:</span>

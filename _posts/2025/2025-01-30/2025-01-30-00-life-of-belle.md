@@ -13,7 +13,7 @@ image:
 <span class="reviewsection">Do they say the title?</span> Yes they do. Not only that, we even get sort of a beta version of the final product because the first time she calls her show "Life with Belle"
 
 <span class="reviewsection">One sentence review:</span> featuring two kids that are way better actors than way too many adults!<br/>
-<span class="reviewsection">Rating:</span> well that was really tense and very sad too, I suppose it caught me in the right frame of mind to be a bit disturbed and everything. Short, tense, super low budget family film, it doesn't really *do* anything new with the format but I think the kids do such a good job they really make the movie. Also! I loved seeing that the brother and sister *are* good friends, that was cute.<br/>
+<span class="reviewsection">Okay, more:</span> well that was really tense and very sad too, I suppose it caught me in the right frame of mind to be a bit disturbed and everything. Short, tense, super low budget family film, it doesn't really *do* anything new with the format but I think the kids do such a good job they really make the movie. Also! I loved seeing that the brother and sister *are* good friends, that was cute.<br/>
 <span class="reviewsection">A simple way to improve it:</span> I really didn't like the scene with the worms. Without any more context this sounds very mysterious, huh?
 
 <span class="reviewsection">Trivia about the IMDb ~~trivia~~ user reviews:</span>

@@ -13,7 +13,7 @@ image:
 <span class="reviewsection">Do they say the title?</span> Yes!
 
 <span class="reviewsection">One sentence review:</span> Some of the least credible dialogue ever in what amounts to a cheesy creepypasta!<br/>
-<span class="reviewsection">Rating:</span> The redeeming quality is they say the movie title, and it's only 11 minutes long. It coulbe shorter tho?<br/>
+<span class="reviewsection">Okay, more:</span> The redeeming quality is they say the movie title, and it's only 11 minutes long. It coulbe shorter tho?<br/>
 <span class="reviewsection">A simple way to improve it:</span> You've got a ton of options here but I'm going to say they should dare make the two characters become FRIENDS and maybe even SUPERHERO and SIDEKICK.
 
 <span class="reviewsection">Trivia about the IMDb trivia:</span>

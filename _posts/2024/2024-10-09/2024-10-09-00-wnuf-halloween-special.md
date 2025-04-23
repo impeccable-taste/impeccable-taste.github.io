@@ -13,7 +13,7 @@ image:
 <span class="reviewsection">Do they say the title?</span> Yeah, anytime they go to a break and trust me they do that all the time.
 
 <span class="reviewsection">One sentence review:</span> I hope real american tv doesn't cut to ads as often as this thing does because ooh boy, that got tiring very quickly!<br/>
-<span class="reviewsection">Rating:</span> It's fun because of how purposefully low cost everything looks, but ultimately it's a pretty pointless thing<br/>
+<span class="reviewsection">Okay, more:</span> It's fun because of how purposefully low cost everything looks, but ultimately it's a pretty pointless thing<br/>
 <span class="reviewsection">A simple way to improve it:</span> I'm sure this didn't need to go to commercials as often as it did. ***Ghostwatch*** was way more effective without doing that all the time!
 
 <span class="reviewsection">Trivia about the IMDb trivia:</span>

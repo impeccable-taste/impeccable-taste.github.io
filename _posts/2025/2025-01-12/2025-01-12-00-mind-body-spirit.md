@@ -13,7 +13,7 @@ image:
 <span class="reviewsection">Do they say the title?</span> Several times and since this is a youtube thing, they're looking into the camera when they do. Full marks.
 
 <span class="reviewsection">One sentence review:</span> bold of you to spell out the "twist" before the first ten minutes, movie.<br/>
-<span class="reviewsection">Rating:</span> it's a pity they do not really stick to the found footage/screenlife format because when they do it really works. I admit I have a soft spot for the genre when it is very clearly low budget.<br/>
+<span class="reviewsection">Okay, more:</span> it's a pity they do not really stick to the found footage/screenlife format because when they do it really works. I admit I have a soft spot for the genre when it is very clearly low budget.<br/>
 <span class="reviewsection">A simple way to improve it:</span> I found the main character's dumbness funny ("oh what's this, a really old dusty bottle with herbs? Imma prepare some tea and see what's what" -paraphrased, but something that actually happens) so maybe they could have embraced it even harder, go full ham at times, etc.
 
 <span class="reviewsection">If I was in the movie, how long would it take me to leave?</span> The very moment the hidden door opens, so around five minutes in, tops. I wouldn't get to see the book and I would live a very long, not-cursed life.

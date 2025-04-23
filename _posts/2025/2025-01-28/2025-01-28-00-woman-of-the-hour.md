@@ -13,7 +13,7 @@ image:
 <span class="reviewsection">Do they say the title?</span> Yes they do!
 
 <span class="reviewsection">One sentence review:</span> that parking lot scene was TENSE.<br/>
-<span class="reviewsection">Rating:</span> Yeah, this one is a strong recommend, even if like me you know about the based-on-a-true-story plot points. Really solid movie.<br/>
+<span class="reviewsection">Okay, more:</span> Yeah, this one is a strong recommend, even if like me you know about the based-on-a-true-story plot points. Really solid movie.<br/>
 <span class="reviewsection">A simple way to improve it:</span> I want Anna Kendrick to ask more uncomfortable questions and definitely more of bachellor #1 making an absolute fool of himself!!!
 
 <span class="reviewsection">Trivia about the IMDb trivia:</span>

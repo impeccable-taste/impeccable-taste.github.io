@@ -13,7 +13,7 @@ image:
 <span class="reviewsection">Do they say the title?</span> No. They use the crossroads metaphor in the second part of the title several times, though.
 
 <span class="reviewsection">One sentence review:</span> This was a very very nice read, the essays cover a ton of very different but very personal topics and some of them are really touching.<br/>
-<span class="reviewsection">Rating:</span> Recommended if you like reading about movies and how they impact your day-to-day.<br/>
+<span class="reviewsection">Okay, more:</span> Recommended if you like reading about movies and how they impact your day-to-day.<br/>
 <span class="reviewsection">A simple way to improve it:</span>
 
 <span class="reviewsection">Trivia about the ~~IMDb trivia~~ Goodreads reviews:</span>

@@ -14,7 +14,7 @@ image:
 <span class="reviewsection">Do they say the title?</span> Relentlessly.
 
 <span class="reviewsection">One sentence review:</span> so uuuuuuuh i guess they spent all the animation budget on the first episode and SOMEHOW they decided to hurry things up even more, completely messing the pacing...<br/>
-<span class="reviewsection">Rating:</span> that was quite the drop in quality, geez.<br/>
+<span class="reviewsection">Okay, more:</span> that was quite the drop in quality, geez.<br/>
 <span class="reviewsection">A simple way to improve it:</span> maybe this will be controversial but I'd be fine if it took a long long while to make the show, but it looked like that first episode I liked so much. Thank you.
 
 <span class="reviewsection">Trivia about ~~the IMDb trivia~~ Junji Ito:</span><br/>

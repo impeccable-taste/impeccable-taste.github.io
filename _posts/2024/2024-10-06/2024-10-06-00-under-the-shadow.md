@@ -13,7 +13,7 @@ image:
 <span class="reviewsection">Do they say the title?</span> Nope.
 
 <span class="reviewsection">One sentence review:</span> That was probably the less subtle subtext I've seen in a while.<br/>
-<span class="reviewsection">Rating:</span> It wasn't bad but I would not recommend it like that, to be honest.<br/>
+<span class="reviewsection">Okay, more:</span> It wasn't bad but I would not recommend it like that, to be honest.<br/>
 <span class="reviewsection">A simple way to improve it:</span> the mom had this illegal VHS deck around and we see some of the movies she's managed to find. Show the kid watching more random movies recorded from US TV there, like, dunno, maybe she's a huge fan of ***BMX Bandits*** and you can tell things are a bit wrong because she's now watching ***Videodrome*** constantly. See? Foreshadowing.
 
 <span class="reviewsection">Trivia about the IMDb ~~trivia~~ user reviews:</span>

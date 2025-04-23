@@ -14,7 +14,7 @@ image:
 <span class="reviewsection">Do they say the title?</span> Unfortunately no. That's a great title.
 
 <span class="reviewsection">One sentence review:</span> arguably one of Bruce Willis' finest performances.<br/>
-<span class="reviewsection">Rating:</span> still hilarious, the practical effects still look great, all three main actors are amazingly on point and yeah it's extremely light on the story department but who cares.<br/>
+<span class="reviewsection">Okay, more:</span> still hilarious, the practical effects still look great, all three main actors are amazingly on point and yeah it's extremely light on the story department but who cares.<br/>
 <span class="reviewsection">A simple way to improve it:</span>
 
 <span class="reviewsection">Trivia about the IMDb trivia:</span>

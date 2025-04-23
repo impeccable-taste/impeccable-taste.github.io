@@ -13,7 +13,7 @@ image:
 <span class="reviewsection">Do they say the title?</span> Yes!
 
 <span class="reviewsection">One sentence review:</span> A fantastic homage to ***Ichi the Killer's*** very first scene.<br/>
-<span class="reviewsection">Rating:</span> Mia Goth is quickly becoming one of my favourite horror actors and I love that she has a hilarious name. It's like a ***Mortadelo*** character, your surname decides what you need to do in life - Muchapastez, Cerebrin, etc<br/>
+<span class="reviewsection">Okay, more:</span> Mia Goth is quickly becoming one of my favourite horror actors and I love that she has a hilarious name. It's like a ***Mortadelo*** character, your surname decides what you need to do in life - Muchapastez, Cerebrin, etc<br/>
 <span class="reviewsection">A simple way to improve it:</span> I would add more references to Takashi Miike's filmography. It's not like we're going to run out of movies to quote, after all.
 
 <span class="reviewsection">Trivia about the IMDb trivia:</span>

@@ -13,7 +13,7 @@ image:
 <span class="reviewsection">Do they say the title?</span> Almost, but nope.
 
 <span class="reviewsection">One sentence review:</span> I liked the cat narrator but the rest didn't live up to the hype Richard Bachman had created on the cover blurb.<br/>
-<span class="reviewsection">Rating:</span> Meh. Maybe do not make your book depend on one specific twist nailing the landing.<br/>
+<span class="reviewsection">Okay, more:</span> Meh. Maybe do not make your book depend on one specific twist nailing the landing.<br/>
 <span class="reviewsection">A simple way to improve it:</span> add a raccoon friend for the cat.
 
 <span class="reviewsection">Trivia about the ~~IMDb trivia~~ Goodreads reviews:</span><br/>

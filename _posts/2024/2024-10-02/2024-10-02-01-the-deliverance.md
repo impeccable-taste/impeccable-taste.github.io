@@ -13,7 +13,7 @@ image:
 <span class="reviewsection">Do they say the title?</span> yes, at least it has this.
 
 <span class="reviewsection">One sentence review:</span> Not even Surprisingly-Horny-Glenn-Close (imagine that shiba inu going *bonk* and sending her to horny jail) saves this satanic panic thing.<br/>
-<span class="reviewsection">Rating:</span> the... first half is sort of okay I guess. Also they say the movie title. Uh.<br/>
+<span class="reviewsection">Okay, more:</span> the... first half is sort of okay I guess. Also they say the movie title. Uh.<br/>
 <span class="reviewsection">A simple way to improve it:</span> please do not be mean to Satan, our lord and master. It's not his fault you bought a megahaunted house.
 
 <span class="reviewsection">Trivia about the IMDb trivia:</span>

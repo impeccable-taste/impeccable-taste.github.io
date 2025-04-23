@@ -14,7 +14,7 @@ image:
 <span class="reviewsection">Do they say the title?</span> To be honest they say it so often it's kinda ruining the joke.
 
 <span class="reviewsection">One sentence review:</span> the animation is juuuust slightly better than the horrendous second episode, but somehow ~~Palpatine has returned~~ the pacing has gotten even worse!<br/>
-<span class="reviewsection">Rating:</span> i will never forget the hilariously terrible last 30 seconds when they go "*oh uhm er we forgot to resolve this so here you go!*"<br/>
+<span class="reviewsection">Okay, more:</span> i will never forget the hilariously terrible last 30 seconds when they go "*oh uhm er we forgot to resolve this so here you go!*"<br/>
 <span class="reviewsection">A simple way to improve it:</span> it is okay to cut a plotline sometimes even if it was very present in the original manga.
 
 <span class="reviewsection">Trivia about the IMDb trivia:</span>

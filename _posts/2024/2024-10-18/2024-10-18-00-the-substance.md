@@ -15,7 +15,7 @@ image:
 <span class="reviewsection">One sentence review:</span> I made this with an appreciative tone, imagine I'm nodding like that lumberjack guy gif.<br/>
 {% include embed/video.html src='the-substance.mp4' %}
 
-<span class="reviewsection">Rating:</span> This was both hilarious -in a really *really* dark way- and it really, uh, goes places. What a bonkers last half an hour, man. It's baby's first body horror movie but still, a really fun ride.<br/>
+<span class="reviewsection">Okay, more:</span> This was both hilarious -in a really *really* dark way- and it really, uh, goes places. What a bonkers last half an hour, man. It's baby's first body horror movie but still, a really fun ride.<br/>
 <span class="reviewsection">A simple way to improve it:</span> The premise "Demi Moore looks too old now she's 50" is ridiculous enough as it is, but it is made even worse by the fact that she's *over ten years older than that*. So my suggestion is that Dennis Quaid's character should do retching noises whenever he talked with her, make comments like "oh god I cannot even look at you" and so on. Go full ham.
 
 <span class="reviewsection">Trivia about the IMDb trivia:</span>
