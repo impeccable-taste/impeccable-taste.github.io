@@ -84,35 +84,20 @@ def download_and_resize_poster(movie_filename, movie_pretty_title, image_save_lo
         if not results:
             raise ValueError(f"Movie '{movie_pretty_title}' not found on IMDb.")
 
-        # Filter by release year if provided
-        if release_year:
-            movie = next((m for m in results if 'year' in m and m['year'] == release_year), None)
-            if not movie:
-                print(f"\tOops: Movie '{movie_pretty_title}' ({release_year}) not found on IMDb!")
-                release_year_input = input("Try with another year? (optional, -1 to quit): ").strip()
-                release_year_input = release_year_input if release_year_input else None
-                release_year_num = int(release_year_input) if release_year_input else None
-                if (release_year_num) and (release_year_num == -1):
-                    raise ValueError(f"\tYou chose not to keep looking")
-                else:
-                    download_and_resize_poster(movie_filename, movie_pretty_title, image_save_location, release_year_num)
-                    return
-        else:
-            # Ask the user to choose if multiple results are found
-            print(f"Multiple results found for '{movie_pretty_title}':")
-            for idx, result in enumerate(results[:10], start=1):
-                title = result.get('title', 'Unknown Title')
-                year = result.get('year', 'Unknown Year')
-                print(f"{idx}. {title} ({year})")
+        # Ask the user to choose if multiple results are found
+        print(f"Multiple results found for '{movie_pretty_title}':")
+        for idx, result in enumerate(results[:10], start=1):
+            title = result.get('title', 'Unknown Title')
+            print(f"{idx}. {title}")
 
-            choice = int(input("Enter the number of the movie you want: ").strip())
-            if choice < 1 or choice > len(results[:10]):
-                raise ValueError("Invalid choice.")
+        choice = int(input("Enter the number of the movie you want: ").strip())
+        if choice < 1 or choice > len(results[:10]):
+            raise ValueError("Invalid choice.")
 
-            movie = results[choice - 1]
+        movie = results[choice - 1]
 
         if not movie:
-            raise ValueError(f"Movie '{movie_pretty_title}' ({release_year}) not found on IMDb.")
+            raise ValueError(f"Movie '{movie_pretty_title}' not found on IMDb.")
 
         # Get movie details (including poster)
         ia.update(movie)
@@ -121,20 +106,18 @@ def download_and_resize_poster(movie_filename, movie_pretty_title, image_save_lo
         movie_images_url = f"https://www.imdb.com/title/tt{movie.movieID}/mediaindex/"
 
         if not poster_url:
-            raise ValueError(f"Poster not found for movie '{movie_pretty_title}' ({release_year}).")
+            raise ValueError(f"Poster not found for movie '{movie_pretty_title}'.")
 
         # Download the poster
         response = requests.get(poster_url, stream=True)
         if response.status_code != 200:
-            raise ValueError(f"Failed to download poster for movie '{movie_pretty_title}' ({release_year}).")
+            raise ValueError(f"Failed to download poster for movie '{movie_pretty_title}'.")
 
         # Save the poster locally
         save_location = os.path.abspath(image_save_location)
         poster_filename = os.path.join(save_location, f"{movie_filename}-cover.png")
 
-        askquestion = input("Movie found! ["+ poster_filename +"]").strip()
-        if askquestion == "n":
-            raise ValueError(f"oops")
+        print(f"Movie found! ['{poster_filename}']")
 
         with open(poster_filename, 'wb') as file:
             for chunk in response.iter_content(1024):
@@ -148,7 +131,7 @@ def download_and_resize_poster(movie_filename, movie_pretty_title, image_save_lo
             img_resized = img.resize((new_width, new_height))
             img_resized.save(poster_filename)
 
-        print(f"Poster for '{movie_pretty_title}' ({release_year}) saved as '{poster_filename}' and resized to height 500 pixels.")
+        print(f"Poster for '{movie_pretty_title}' saved as '{poster_filename}' and resized to height 500 pixels.")
 
         print(f"IMDb URL for the movie: {movie_url}")
         webbrowser.open(movie_url)  # Open the link in the default browser
@@ -235,8 +218,7 @@ def create_file_structure_and_copy_template(review_name_input, release_year):
         output_file.write(output_content)
 
     print(f"File created: {output_file_path}")
-    release_year_num = int(release_year_input) if release_year_input else None
-    download_and_resize_poster(review_filename, review_pretty_title, image_save_location, release_year_num)
+    download_and_resize_poster(review_filename, review_pretty_title, image_save_location)
 
 if __name__ == "__main__":
     review_name_input = input("Enter the name: ").strip()
