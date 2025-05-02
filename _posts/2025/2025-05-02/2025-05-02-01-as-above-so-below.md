@@ -9,7 +9,7 @@ image:
     path: "as-above-so-below.png"
 ---
 {% include 5r.html %}
-<span class="reviewsection">Premise:</span> So apparently we've been lied to and Paris is built on top of some bonkers catacombs that are basically everywhere and are cool and creepy and I mean I'd definitely move there, but yeah. This is a found footage movie that tries to covers the basics of "fuck around and find out", or, why would you touch that, just go back home, you muppet.<br/>
+<span class="reviewsection">Premise:</span> So apparently we've been lied to and Paris is built on top of some bonkers catacombs that are basically everywhere and are cool and creepy and I mean I'd definitely move there, but yeah. This is a found footage movie that tries to cover the basics of "fuck around and find out", or, why would you touch that, just go back home, you muppet.<br/>
 <span class="reviewsection">Under 90 minutes?</span> So close, but no.<br/>
 <span class="reviewsection">Do they say the title?</span> Hell yeah they do! And anytime they repeat it it sounds even more ominous! Full marks here.
 
