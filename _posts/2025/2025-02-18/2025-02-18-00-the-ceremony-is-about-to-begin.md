@@ -3,7 +3,7 @@ title: The Ceremony Is About to Begin (2024)
 description: We have Creep at home
 date: 2025-02-18 21:54:28 +0100
 categories: [films, horror films]
-tags: [film reviews, horror, found footage, lowbudgetcore, altered states, just shaman stuff, there was an attempt, featuring the most obnoxious people on earth, wrong place wrong face, they say the title]
+tags: [film reviews, horror, found footage, lowbudgetcore, altered states, middleofnowherecore, just shaman stuff, there was an attempt, featuring the most obnoxious people on earth, wrong place wrong face, they say the title]
 media_subpath: "/assets/img/posts/2025-02-18/"
 image:
     path: "the-ceremony-is-about-to-begin.png"

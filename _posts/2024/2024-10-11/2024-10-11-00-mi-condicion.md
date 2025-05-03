@@ -3,7 +3,7 @@ title: Mi Condición (2021)
 description: REM - Losing my condition
 date: 2024-10-11 11:04:10 +0100
 categories: [films, horror films]
-tags: [film reviews, horror, shorts, spooktober 2024, they say the title]
+tags: [film reviews, horror, shorts, spooktober 2024, middleofnowherecore, they say the title]
 media_subpath: "/assets/img/posts/2024-10-11/"
 image:
     path: "mi-condicion.png"
