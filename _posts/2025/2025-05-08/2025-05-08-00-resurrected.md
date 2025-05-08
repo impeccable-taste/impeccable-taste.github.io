@@ -27,8 +27,11 @@ Probably not but I mean, it's not like we'd lose much and it'd have the "oh *fuc
 At some point our mess of a protagonist contacts a young girl (she's an adult, don't worry. I clarify this because we're talking about a priest, after all) who is a HACKER! And when Father Stan asks her what's her name, she instead gives him HER NICKNAME cause this is basically 1995's ***Hackers***. The nickname is "*RAT*", and the following dialogue takes place:
 
 > [our hacker friend] call me Rat, by the way
+> 
 > [priestman] Rat... like the *bubonic plague*???
+> 
 > [hackerlady] what? no, d'uh, Rat like *Remote Access Trojan*
+> 
 > [loser priestman] oh, i guess it's a hacker thing
 
 I am amazed at the leap of logic that goes from "rat", as in, the fun animal we're all fans of, to THE BUBONIC PLAGUE. I am also extremely amused by how the really great writing on this movie makes the hacker roll her eyes while saying "remote access trojan" as if that should have been obvious.
