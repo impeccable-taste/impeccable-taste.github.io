@@ -3,7 +3,7 @@ title: Humanist Vampire Seeking Consenting Suicidal Person (2023)
 description: I guess they won't say the title on this one
 date: 2025-02-19 22:59:09 +0100
 categories: [films, horror films]
-tags: [film reviews, horror comedy, horror, cool weird crap, romcom, they don't say the title]
+tags: [film reviews, horror comedy, black comedy, horror, cool weird crap, romcom, they don't say the title]
 media_subpath: "/assets/img/posts/2025-02-19/"
 image:
     path: "humanist-vampire-seeking-consenting-suicidal-person.png"
