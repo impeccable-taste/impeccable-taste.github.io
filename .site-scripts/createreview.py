@@ -221,7 +221,7 @@ def create_file_structure_and_copy_template(review_name_input, release_year):
     download_and_resize_poster(review_filename, review_pretty_title, image_save_location)
 
 if __name__ == "__main__":
-    review_name_input = input("Enter the name: ").strip()
+    review_name_input = input("Enter the name: ").strip().lower()
     release_year_input = input("Enter the release year (optional): ").strip()
     release_year = release_year_input if release_year_input else None
 
