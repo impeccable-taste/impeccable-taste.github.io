@@ -3,7 +3,7 @@ title: Milk & Serial (2024)
 description: Youtube is really scary
 date: 2025-05-01 21:55:40 +0200
 categories: [films, horror films]
-tags: [film reviews, horror, found footage, influencers!, lowbudgetcore, the internet is scary, they don't say the title]
+tags: [film reviews, horror, found footage, influencers!, lowbudgetcore, the internet is scary, shorts, they don't say the title]
 media_subpath: "/assets/img/posts/2025-05-01/"
 image:
     path: "milk-and-serial.png"
