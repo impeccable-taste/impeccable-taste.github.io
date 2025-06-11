@@ -3,11 +3,12 @@ title: Don't Tell a Soul (2020)
 description: Today smoking is going to save lives
 date: 2025-05-13 23:06:30 +0200
 categories: [films, thrillers]
-tags: [film reviews, thriller, featuring the most obnoxious people on earth, folk horror, middleofnowherecore, wrong place wrong face, they say the title]
+tags: [film reviews, thriller, featuring the most obnoxious people on earth, folk horror, middleofnowherecore, wrong place wrong face, movies that tell you what you should do, they say the title]
 media_subpath: "/assets/img/posts/2025-05-13/"
 image:
     path: "dont-tell-a-soul.png"
 ---
+{% include tellyouwhattodo.html %}
 <span class="reviewsection">Premise:</span> Dwight Schrute, tired of his job as assistant to the regional manager, decides to pivot and becomes a security guard who chases two of the most obnoxious teenagers on earth, one of whom might be (is) an absolute psychopath. While running behind them, poor Dwight falls in some sort of hole/well thing, breaks his ankle and is in general pretty miserable and sad and in a hole.<br/>Now the thing is: those two teens? They had just stolen a ton of money, so talking with the cops would be a really bad idea (on top of the usual ACAB stuff I mean) because it'd be easy to trace things back to them. But of course, there's a dude that might die in a hole in the ground. But of course, he's a witness. Also, he's Dwight. Also, the non-sociopath teen has extreme issues where he's looking for a father figure and hey what if he had a captive audience etc etc etc, and the other brother is like "i just wanted to see how they were on the inside so i killed them" dahmer material. It's all kind of a mess, so just another tuesday on your favourite blog.<br/>
 <span class="reviewsection">Under 90 minutes?</span> Yeah, 83 minutes, baby!<br/>
 <span class="reviewsection">Do they say the title?</span> yes.... YES!

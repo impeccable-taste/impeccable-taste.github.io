@@ -3,11 +3,12 @@ title: Knock at the Cabin (2023)
 description: I mean if Dave Bautista knocks you might no longer have a door
 date: 2025-04-07 21:28:27 +0200
 categories: [films, horror films]
-tags: [film reviews, horror, secret sad movie, the internet is scary, middleofnowherecore, vacationsploitation, wrong place wrong face, they don't say the title]
+tags: [film reviews, horror, secret sad movie, the internet is scary, middleofnowherecore, vacationsploitation, wrong place wrong face, movies that tell you what you should do, they don't say the title]
 media_subpath: "/assets/img/posts/2025-04-07/"
 image:
     path: "knock-at-the-cabin.png"
 ---
+{% include tellyouwhattodo.html %}
 <span class="reviewsection">Premise:</span> Don't you hate it when you're trying to enjoy a weekend off with your family, you travel to this remote cabin in the middle of nowhere (which is already a red flag, as usual) and suddenly four weirdos take you and your family hostage and start to talk weird crap about the end of the world? Lately every weekend feels like that, let me tell you, although maybe with less Dave Bautista and the weird kid from the harry potter movies. No, not that one, the weird friend. Yeah.<br/>
 <span class="reviewsection">Under 90 minutes?</span> Nnnnope, it is a bit longer than that and, let me tell you, it could have been 90 minutes without losing much.<br/>
 <span class="reviewsection">Do they say the title?</span> Nah. And they had the perfect opportunity to go "I guess that is why there was a... knock... at the cabin..." and end the movie there.
