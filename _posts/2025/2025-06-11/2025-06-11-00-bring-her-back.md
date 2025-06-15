@@ -3,7 +3,7 @@ title: Bring Her Back (2025)
 description: Here comes the Feel Bad movie of the year!
 date: 2025-06-11 23:45:58 +0200
 categories: [films, horror films]
-tags: [film reviews, horror, altered states, cool weird crap, featuring a dog, just shaman stuff, let's die our way out, long hair is scary, middleofnowherecore, pretty metal, vhs nostalgia, what the hell was that, wwrong place wrong face, ñam ñam qué rico, movies that tell you what you should do, they say the title]
+tags: [film reviews, horror, altered states, cool weird crap, featuring a dog, just shaman stuff, let's die our way out, long hair is scary, middleofnowherecore, pretty metal, vhs nostalgia, what the hell was that, wrong place wrong face, ñam ñam qué rico, movies that tell you what you should do, they say the title]
 media_subpath: "/assets/img/posts/2025-06-11/"
 image:
     path: "bring-her-back.png"
