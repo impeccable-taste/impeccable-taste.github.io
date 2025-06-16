@@ -3,7 +3,7 @@ title: The Fifth Thoratic Vertebra (2022)
 description: hahahaha oh nooooo nonononono NO ewwwww hahaha ew
 date: 2024-10-14 11:58:14 +0100
 categories: [films, horror films]
-tags: [film reviews, horror, horror comedy, body horror, shorts, what the hell was that, ñam ñam qué rico, altered states, lowbudgetcore, kpop horror, why would you even keep that thing at home, spooktober 2024, they don't say the title]
+tags: [film reviews, horror, horror comedy, body horror, shorts, what the hell was that, ñam ñam qué rico, altered states, lowbudgetcore, kpop horror, why would you even keep that thing at home, why would you touch that, spooktober 2024, they don't say the title]
 media_subpath: "/assets/img/posts/2024-10-14/"
 image:
     path: "the-fifth-thoratic-vertebra.png"
