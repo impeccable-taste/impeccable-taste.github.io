@@ -3,7 +3,7 @@ title: Behind the Sightings (2021)
 description: Those clowns in congress did it again. What a bunch of clowns!
 date: 2025-06-17 21:58:23 +0200
 categories: [films, horror films]
-tags: [film reviews, horror, clowntastic, featuring the most obnoxious people on earth, found footage, hauntedhousesploitation, influencers!, lowbudgetcore, middleofnowherecore, netflixcore, snorecore, the writer's barely-disguised fetish, there was an attempt, true crime fans are the worst, they say the title]
+tags: [film reviews, horror, clowntastic, featuring the most obnoxious people on earth, found footage, haunted-housesploitation, influencers!, lowbudgetcore, middleofnowherecore, netflixcore, snorecore, the writer's barely-disguised fetish, there was an attempt, true crime fans are the worst, they say the title]
 media_subpath: "/assets/img/posts/2025-06-17/"
 image:
     path: "behind-the-sightings.png"
