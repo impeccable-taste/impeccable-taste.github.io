@@ -15,7 +15,7 @@ image:
 <span class="reviewsection">One ~~sentence~~ image review:</span>
 ![we've got john carpenter's the thing at home](thethingathome.png)
 <br/>
-<span class="reviewsection">Okay, more:</span> Uhm, yeah, this was (ahem) slightly worse than ***John Carpenter's The Thing***, unfortunately. There was some cool stuff here and there and if you've been reading this blog for a while you know I love my love budget crap, but unfortunately it wasn't enough to save it. It must be cool to go spend some days in the snow with your friends and basically do a loving homage to ***John Carpenter's The Thing***, but with more cosmic horror and canadian accents.<br/>
+<span class="reviewsection">Okay, more:</span> Uhm, yeah, this was (ahem) slightly worse than ***John Carpenter's The Thing***, unfortunately. There was some cool stuff here and there and if you've been reading this blog for a while you know I adore my low budget crap, but unfortunately it wasn't enough to save it. It must be cool to go spend some days in the snow with your friends and basically do a loving homage to ***John Carpenter's The Thing***, but with more cosmic horror and canadian accents.<br/>
 <span class="reviewsection">A simple way to improve it:</span> instead of setting the movie in the arctic, set it in antarctica because it's cooler than Canada. Also, maybe add a <sub><sup>(John Carpenter's The)</sup></sub> Thing or two, and uhm, also, maybe contact and get some notes from the Master of Horror himself, John Carpenter. Of ***John Carpenter's The Prince of Darkness*** fame, of course.
 
 <span class="reviewsection">Trivia about the IMDb trivia:</span>
