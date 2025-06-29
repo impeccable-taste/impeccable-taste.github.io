@@ -8,7 +8,7 @@ media_subpath: "/assets/img/posts/2025-06-29/"
 image:
     path: "clown-in-a-cornfield.png"
 ---
-<span class="reviewsection">Premise:</span> This girl and her incredibly lame dad move to Nowhere's Middlettown, a tiny town where nothing happens except when people start dying at the hands of a clown... in a cornfield!? Also uh i guess she befriends the Bad Kids in town and whatever.<br/>
+<span class="reviewsection">Premise:</span> This girl and her incredibly lame dad move to Nowhere's Middlettown, a tiny place where nothing happens except when people start dying at the hands of a clown... in a cornfield!? Also uh i guess she befriends the Bad Kids in town and whatever.<br/>
 <span class="reviewsection">Under 90 minutes?</span> about five minutes over the perfect duration.<br/>
 <span class="reviewsection">Do they say the title?</span> No, no they don't. Trust me, there were a ton of opportunities to go like "watch out guys, there's a clown in a cornfield!" but alas.
 
