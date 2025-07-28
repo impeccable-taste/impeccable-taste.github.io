@@ -19,4 +19,5 @@ image:
 <span class="reviewsection">Trivia about the IMDb trivia:</span>
 > [A character] says he turned 15 in 1987, and the movie's set in 1999, making him 27. But the actor who plays him is over 40, and clearly looks it.
 
-Of course it would be completely against the whole point of the movie that either A) a character was openly lying to our protagonist or B) it didn't really happen like that. It's not like that exact same thing happened [checks notes] OH MY GOD THIS CHANGES EVERYTHING{% include really.html %}
+Of course it would be completely against the whole point of the movie that either A) a character was openly lying to our protagonist or B) it didn't really happen like that. It's not like that exact same thing happened [checks notes] OH MY GOD THIS CHANGES EVERYTHING
+{% include really.html %}
