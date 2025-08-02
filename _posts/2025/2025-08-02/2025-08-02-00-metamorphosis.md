@@ -1,6 +1,6 @@
 ---
 title: Metamorphosis (2019)
-description: way to make demons look cheesy, omg
+description: Not Franz Kafka's or John Carpenter's, though
 date: 2025-08-02 22:20:42 +0200
 categories: [films, horror films]
 tags: [film reviews, horror, kpop horror, haunted-housesploitation, let's dumb our way out, netflixcore, satanic panic, snorecore, why would you even keep that thing at home, they don't say the title]
