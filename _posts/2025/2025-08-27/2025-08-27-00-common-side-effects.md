@@ -3,7 +3,7 @@ title: Common Side Effects (2024)
 description: A really sick Electric Wizard song can be heard in the distance
 date: 2025-08-27 22:06:59 +0200
 categories: [shows, thriller shows]
-tags: [show reviews, thriller, black comedy, accurate portrayal of another country, altered states, body horror, buttsploitation, cool weird crap, eat the rich, featuring a dog, featuring the most obnoxious people on earth, hagsploitation, just shaman stuff, middleofnowherecore, spooky painting, why would you touch that, ñam ñam qu rico, they say the title]
+tags: [show reviews, thriller, black comedy, accurate portrayal of another country, altered states, body horror, buttsploitation, cool weird crap, eat the rich, featuring a dog, featuring the most obnoxious people on earth, hagsploitation, just shaman stuff, middleofnowherecore, spooky painting, why would you touch that, ñam ñam qué rico, they say the title]
 media_subpath: "/assets/img/posts/2025-08-27/"
 image:
     path: "common-side-effects.png"
