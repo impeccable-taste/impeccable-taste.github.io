@@ -8,6 +8,7 @@ from pathlib import Path
 from PIL import Image
 from imdb import IMDb
 from io import BytesIO
+from datetime import datetime, timedelta
 
 # DEFAULTS AND CONSTANTS
 DEFAULT_TEMPLATE = "../_drafts/film-review-template.md"
