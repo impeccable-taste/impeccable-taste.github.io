@@ -176,7 +176,7 @@ def create_file_structure_and_copy_template(review_name_input, release_year, dat
     gmt_offset = f"{offset_hours:+03d}00"
 
     # create tomorrow's date at 10:30am
-    tomorrow = datetime.now() + timedelta(days=date_offset)
+    tomorrow = datetime.now() + timedelta(days=int(date_offset))
     tomorrow_at_1030 = datetime(
         year=tomorrow.year,
         month=tomorrow.month,
