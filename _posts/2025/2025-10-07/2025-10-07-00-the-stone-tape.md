@@ -3,7 +3,7 @@ title: The Stone Tape (1972)
 description: (very, very heavy stoner metal starts playing in the background)
 date: 2025-10-07 08:40:00 +0200
 categories: [films, horror films]
-tags: [film reviews, horror, cool weird crap, haunted-hausesploitation, let's think our way out, time shenanigans, why would you touch that, spooktober 2025, they say the title]
+tags: [film reviews, horror, cool weird crap, haunted-housesploitation, let's think our way out, time shenanigans, why would you touch that, spooktober 2025, they say the title]
 media_subpath: "/assets/img/posts/2025-10-07/"
 image:
     path: "the-stone-tape.png"
