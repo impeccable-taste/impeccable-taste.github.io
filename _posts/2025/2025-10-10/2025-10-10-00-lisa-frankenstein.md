@@ -1,7 +1,7 @@
 ---
 title: Lisa Frankenstein (2024)
 description: Love will tear us apart.
-date: 2025-10-10 10:30:00 +0200
+date: 2025-10-10 08:30:00 +0200
 categories: [films, horror films]
 tags: [film reviews, horror, altered states, body horror, buttsploitation, cool weird crap, high heels and leather, horror comedy, romcom, the writer's barely-disguised fetish, vhs nostalgia, why would you touch that, spooktober 2025, they don't say the title]
 media_subpath: "/assets/img/posts/2025-10-10/"
@@ -9,7 +9,7 @@ image:
     path: "lisa-frankenstein.png"
 ---
 {% include spooktober-2025.html %}
-<span class="reviewsection">Premise:</span> It's the eighties and Lisa is one of the losers at her high school. Her mom died recently-ish, her dad's married to a woman she hates and she's now got a step sister that is pretty nice all things considered. Also, she's got a huge crush on this dude that, probably, doesn't even know she exists. Also she's kind into the whole thing about going to graveyards and being very goff and all that, and after one of those visits lightning strikes on one of the graves and boom suddenly we've got a zombie! And well this is their love story, of sorts.<br/>
+<span class="reviewsection">Premise:</span> It's the eighties and Lisa is one of the losers at her high school. Her mom died recently-ish, her dad's married to a woman she hates and she's now got a step sister that is pretty nice all things considered. Also, she's got a huge crush on this dude that, probably, doesn't even know she exists. *Also* she's kind into the whole thing about going to graveyards and being very goff and all that, and after one of those visits lightning strikes on one of the graves and boom suddenly we've got a zombie! And well this is their love story, more or less. That or a guide on how to assemble a dude from spare parts.<br/>
 <span class="reviewsection">Under 90 minutes?</span> about 10 minutes over the mark.<br/>
 <span class="reviewsection">Do they say the title?</span> you know what, they don't. I don't even think they said the word "Frankenstein" even once?
 
