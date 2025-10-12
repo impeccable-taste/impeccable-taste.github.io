@@ -17,7 +17,7 @@ image:
 
 ![what](zombie-flanders.gif)<br/>
 <span class="reviewsection">Okay, more:</span> It feels almost bizarre that the only thing I knew about this movie was "hur hur the poster looks similar to the end of evangelion hur hur". This was an total blind watch chosen with Ye Olde Reliable Ritual ("press 'order randomly' on the app, choose the first option, praise Satan") and boy oh boy. Very cool super early 80s (basically ultralate seventies) look and feel, surprisingly effective visual effects and it is clearly going for this pulpy type of short story feel like a ***Twilight Zone*** episode or those charmingly dumb ***EC Comics*** from back when. Really cool stuff, i think it's going directly to the "haha, I need to rewatch this weird crap one day" list.<br/>
-<span class="reviewsection">A simple way to improve it:</span>
+<span class="reviewsection">A simple way to improve it:</span> go even more bonkers with the last stretch of the movie, I was 100% on the writers' side by then.
 
 <span class="reviewsection">Trivia about the IMDb ~~trivia~~ Goofs section:</span>
 > **Revealing Mistakes**
