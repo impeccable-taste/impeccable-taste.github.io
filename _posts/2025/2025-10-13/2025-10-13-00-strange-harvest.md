@@ -8,6 +8,7 @@ media_subpath: "/assets/img/posts/2025-10-13/"
 image:
     path: "strange-harvest.png"
 ---
+{% include spooktober-2025.html %}
 <span class="reviewsection">Premise:</span> So this is a fake documentary about "Mr Shiny", a serial killer with a really dumb name that's been active since the early nineties. It is filmed just as if it was one of those True Crime documentaries on Netflix, with interviews, dramatic music cues when they play any real footage, punchable cops and also the feeling that this is not just a dude killing people, there is something a bit worse going on.<br/>
 <span class="reviewsection">Under 90 minutes?</span> Five minutes over the line.<br/>
 <span class="reviewsection">Do they say the title?</span> No!
