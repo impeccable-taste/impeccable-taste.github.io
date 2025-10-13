@@ -1,7 +1,7 @@
 ---
 title: Strange Harvest (2024)
 description: better than most of the "based on a true crime" shows on streaming services!
-date: 2025-10-13 10:30:00 +0200
+date: 2025-10-13 08:05:00 +0200
 categories: [films, horror films]
 tags: [film reviews, horror, body horror, cool weird crap, found footage, just shaman stuff, pretty metal, spooky painting, the internet is scary, true crime fans are the worst, why would you touch that, wrong place wrong face, spooktober 2025, they don't say the title]
 media_subpath: "/assets/img/posts/2025-10-13/"
