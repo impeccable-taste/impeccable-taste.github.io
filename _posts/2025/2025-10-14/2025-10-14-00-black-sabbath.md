@@ -1,7 +1,7 @@
 ---
 title: Black Sabbath (1963)
 description: Do not, and let me underline this, steal from dead mediums or witches
-date: 2025-10-14 10:30:00 +0200
+date: 2025-10-14 10:00:00 +0200
 categories: [films, horror films]
 tags: [film reviews, horror, hagsploitation, haunted-housesploitation, high heels and leather, secret romcom, why would you touch that, ñam ñam qué rico, spooktober 2025, they say the title]
 media_subpath: "/assets/img/posts/2025-10-14/"
