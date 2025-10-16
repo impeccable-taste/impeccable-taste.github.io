@@ -3,7 +3,7 @@ title: Friend of the World (2020)
 description: was the secrets we found along the way... :)
 date: 2025-10-16 09:22:00 +0200
 categories: [films, horror films]
-tags: [film reviews, horror, altered states, body horror, buttsploitation, fartstploitation, horror comedy, it's a metaphor d'uh, john carpenter's, let's die our way out, lowbudgetcore, middleofnowherecore, shorts, what the hell was that, wrong place wrong face, spooktober 2025, they say the title]
+tags: [film reviews, horror, altered states, body horror, buttsploitation, fartsploitation, horror comedy, it's a metaphor d'uh, john carpenter's, let's die our way out, lowbudgetcore, middleofnowherecore, shorts, what the hell was that, wrong place wrong face, spooktober 2025, they say the title]
 media_subpath: "/assets/img/posts/2025-10-16/"
 image:
     path: "friend-of-the-world.png"
