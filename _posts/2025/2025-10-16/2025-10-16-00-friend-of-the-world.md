@@ -1,7 +1,7 @@
 ---
 title: Friend of the World (2020)
 description: was the secrets we found along the way... :)
-date: 2025-10-16 10:30:00 +0200
+date: 2025-10-16 09:22:00 +0200
 categories: [films, horror films]
 tags: [film reviews, horror, altered states, body horror, buttsploitation, fartstploitation, horror comedy, it's a metaphor d'uh, john carpenter's, let's die our way out, lowbudgetcore, middleofnowherecore, shorts, what the hell was that, wrong place wrong face, spooktober 2025, they say the title]
 media_subpath: "/assets/img/posts/2025-10-16/"
@@ -23,4 +23,4 @@ image:
 <span class="reviewsection">Trivia about the IMDb trivia:</span>
 > The film has been described as Samuel Beckett and Jean-Paul Sartre meet John Carpenter and David Cronenberg.
 
-Haha yeah that's definitely not something the writer/director has said about his own movie, no sir.
+The writer/director's grandma is VERY proud of him and just googled four names before typing this trivia.
