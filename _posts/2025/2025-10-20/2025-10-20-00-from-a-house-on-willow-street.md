@@ -1,7 +1,7 @@
 ---
 title: From a House on Willow Street (2016)
 description: Willow, Elm... what's with these streets named after trees?!
-date: 2025-10-20 10:30:00 +0200
+date: 2025-10-20 08:45:00 +0200
 categories: [films, horror films]
 tags: [film reviews, horror, let's die our way out, lowbudgetcore, middleofnowherecore, satanic panic, why would you touch that, spooktober 2025, they don't say the title]
 media_subpath: "/assets/img/posts/2025-10-20/"
