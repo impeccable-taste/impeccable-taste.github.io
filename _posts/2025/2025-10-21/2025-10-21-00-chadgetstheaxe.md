@@ -1,7 +1,7 @@
 ---
 title: hashtagchadgetstheaxe (2022)
 description: we're getting so many views here
-date: 2025-10-21 10:30:00 +0200
+date: 2025-10-21 20:30:00 +0200
 categories: [films, horror films]
 tags: [film reviews, horror, accurate portrayal of another country, comedy, horror comedy, eat the rich, featuring the most obnoxious people on earth, found footage, haunted-housesploitation, influencers!, just nepo baby things, let's dumb our way out, middleofnowherecore, satanic panic, screenlife, the internet is scary, true crime fans are the worst, why would you touch that, wrong place wrong face, spooktober 2025, they say the title]
 media_subpath: "/assets/img/posts/2025-10-21/"
