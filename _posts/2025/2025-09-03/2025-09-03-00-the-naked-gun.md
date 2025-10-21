@@ -3,7 +3,7 @@ title: The Naked Gun (2025)
 description: Liam Neeson asking a cloud that looks like Leslie Nielsen "was this good?". There's a very loud fart noise, he smiles.
 date: 2025-09-03 21:38:37 +0200
 categories: [films, high art]
-tags: [film reviews, high art, comedy, action, buttsploitation, high art, let's dumb our way out, secret musical, the internet is scary, vhs nostalgia, they don't say the title]
+tags: [film reviews, high art, comedy, action, buttsploitation, let's dumb our way out, secret musical, the internet is scary, vhs nostalgia, they don't say the title]
 media_subpath: "/assets/img/posts/2025-09-03/"
 image:
     path: "the-naked-gun.png"
