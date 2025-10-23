@@ -1,7 +1,7 @@
 ---
 title: Best Wishes to All (2023)
 description: In case you're feeling a bit down today
-date: 2025-10-23 10:30:00 +0200
+date: 2025-10-23 09:10:00 +0200
 categories: [films, horror films]
 tags: [film reviews, horror, black comedy, cool weird crap, hagsploitation, it's a metaphor d'uh, jaypeg horror, just shaman stuff, middleofnowherecore, secret romcom, vacationsploitation, what the hell was that, why would you even keep that thing at home, spooktober 2025, they don't say the title]
 media_subpath: "/assets/img/posts/2025-10-23/"
@@ -9,8 +9,8 @@ image:
     path: "best-wishes-to-all.png"
 ---
 {% include spooktober-2025.html %}
-<span class="reviewsection">Premise:</span> This girl who's studying to become a nurse is visiting her grandparents. She hasn't visited for a few years now, her parents and little brother are not arriving until a couple of days after and she's feeling a bit awkward about it because when she was little she used to have nightmares about this room by the end of the corridor which was always locked. When she gets there, although her grandparents clearly love her and are really concerned about her happiness, you can tell something's off.<br/>
-<span class="reviewsection">Under 90 minutes?</span> One minute under the mark! Hell yeah!<br/>
+<span class="reviewsection">Premise:</span> This girl who's studying to become a nurse is visiting her grandparents. She hasn't been there for a few years now, her parents and little brother are not arriving until a couple of days after and she's feeling a bit awkward about it because when she was little she used to have nightmares about this room by the end of the corridor which was always locked. When she gets there, although her grandparents clearly love her and are really concerned about her happiness, you can tell something's off. Like, seriously off.<br/>
+{% include jaypeghorror.html %}<span class="reviewsection">Under 90 minutes?</span> One minute under the mark! Hell yeah!<br/>
 <span class="reviewsection">Do they say the title?</span> Nope, unfortunately no.
 
 <span class="reviewsection">One sentence review:</span>
