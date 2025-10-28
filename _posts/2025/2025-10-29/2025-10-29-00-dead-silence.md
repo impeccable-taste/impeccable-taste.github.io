@@ -22,7 +22,7 @@ Which would, all in all, be a COMPLETE SUCCESS compared to the obvious thing tha
 
 <span class="reviewsection">One sentence review:</span>
 
-![dead silence](dummy.gif)<br/>
+![dead silence](dead-silence.gif)<br/>
 <span class="reviewsection">Okay, more:</span> Okay, yeah, so there was a reason why this is *the* James Wan movie nobody ever talks about. I mean I kinda expected more from Mr Conjuring, but eeeeh. Extremely lame, really bad cgi, even the usual Jameswanisms like "most of the screen is pitch black right now" seem crappy this time around. Dunno, not a movie I'd recommend.<br/>
 <span class="reviewsection">A simple way to improve it:</span> that dummy has the same problem the Annabelle doll on the conjuringverse has: if you get that home, you deserve anything that happens to you (not victim blaming, just stating facts). I would just replace it with a crappy tickle me elmo thing or whatever and it'd be way creepier.
 
