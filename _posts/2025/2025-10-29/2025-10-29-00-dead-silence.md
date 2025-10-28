@@ -1,6 +1,6 @@
 ---
 title: Dead Silence (2007)
-description: GABBO! GABBO!! GABBO!!!!
+description: Gabbo! Gabbo!! GABBO!!!!
 date: 2025-10-29 10:30:00 +0100
 categories: [films, horror films]
 tags: [film reviews, horror, hagsploitation, haunted-housesploitation, let's die our way out, snorecore, netflixcore, spooky doll, vaudeville, why would you even keep that thing at home, spooktober 2025, they don't say the title]
