@@ -3,11 +3,12 @@ title: The Empty Man (2020)
 description: the worst possible nickname?
 date: 2025-10-28 21:31:39 +0100
 categories: [films, horror films]
-tags: [film reviews, horror]
+tags: [film reviews, horror, altered states, cool weird crap, folk horror, just shaman stuff, let's die our way out, spooktober 2025, they say the title]
 media_subpath: "/assets/img/posts/2025-10-28/"
 image:
     path: "the-empty-man.png"
 ---
+{% include spooktober-2025.html %}
 <span class="reviewsection">Premise:</span> our guy is called James Lasombra. This is a pretty badass name for a private detective, specially because he's the kind that smokes, drinks, has some trauma, blabla. Anyway, his neighbour's dorter disappears after she and her friends followed some dumb urban legend thing and he's decided to find her, no matter how many weird conspiracies he needs to uncover!<br/>
 <span class="reviewsection">Under 90 minutes?</span> Nope, over two hours!<br/>
 <span class="reviewsection">Do they say the title?</span>Yup, constantly!
