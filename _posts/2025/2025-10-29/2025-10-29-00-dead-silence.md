@@ -1,7 +1,7 @@
 ---
 title: Dead Silence (2007)
 description: Gabbo! Gabbo!! GABBO!!!!
-date: 2025-10-29 10:30:00 +0100
+date: 2025-10-29 08:30:00 +0100
 categories: [films, horror films]
 tags: [film reviews, horror, hagsploitation, haunted-housesploitation, let's die our way out, snorecore, netflixcore, spooky doll, vaudeville, why would you even keep that thing at home, spooktober 2025, they don't say the title]
 media_subpath: "/assets/img/posts/2025-10-29/"
@@ -13,17 +13,17 @@ image:
 - burn the dummy
 - burn the house down
 - leave town, change my name
-- start a life as a fat, but happy dumb jokester
+- start a life as a fat, but happy dumb hobo
 - *bring vaudeville back*
 
-Which would, all in all, be a COMPLETE SUCCESS compared to the obvious thing that happens here where the wife is killed in a gruesome way and eh. Dummies look weird and spooky.<br/>
+Which would, all in all, be a COMPLETE SUCCESS compared to the obvious thing that happens here where the wife is killed in a gruesome way during the first few minutes and eh. Dummies look weird and spooky and that includes the evil Maricarmen and her Muñecos.<br/>
 <span class="reviewsection">Under 90 minutes?</span> Yes! Just barely, but yes.<br/>
 <span class="reviewsection">Do they say the title?</span> Nope.
 
 <span class="reviewsection">One sentence review:</span>
 
 ![dead silence](dead-silence.gif)<br/>
-<span class="reviewsection">Okay, more:</span> Okay, yeah, so there was a reason why this is *the* James Wan movie nobody ever talks about. I mean I kinda expected more from Mr Conjuring, but eeeeh. Extremely lame, really bad cgi, even the usual Jameswanisms like "most of the screen is pitch black right now" seem crappy this time around. Dunno, not a movie I'd recommend.<br/>
+<span class="reviewsection">Okay, more:</span> Okay, yeah, so there was a reason why this is *the* James Wan movie nobody ever talks about. I mean I kinda expected more from Mr Conjuring, but eeeeh. Extremely lame, really bad cgi, even the usual jameswanisms like "most of the screen is pitch black right now" seem crappy this time around. Dunno, not a movie I'd recommend. Boo, but not "boo!" as in "haha did that scare you" but "boo" as in "boo-urns".<br/>
 <span class="reviewsection">A simple way to improve it:</span> that dummy has the same problem the Annabelle doll on the conjuringverse has: if you get that home, you deserve anything that happens to you (not victim blaming, just stating facts). I would just replace it with a crappy tickle me elmo thing or whatever and it'd be way creepier.
 
 <span class="reviewsection">Trivia about the IMDb trivia:</span>
