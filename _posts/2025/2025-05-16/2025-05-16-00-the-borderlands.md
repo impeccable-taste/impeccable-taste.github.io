@@ -15,7 +15,7 @@ image:
 <span class="reviewsection">One sentence review:</span>
 {% include wth.html %}
 <span class="reviewsection">Okay, more:</span> okay, this was way better than I expected. It was never really boring (the real curse of the found footage genre), they were very smart hiding some of the 'tricks'/effects so you wouldn't really see them coming and boy, the last half an hour is extremely tense and that's a *really* bonkers ending that didn't feel like a cheat. Good stuff.<br/>
-<span class="reviewsection">A simple way to improve it:</span> I laughed out loud at how sudden that scene with the asshole kid being punched *hard* in the face so maybe there could have been more of that.
+<span class="reviewsection">A simple way to improve it:</span> I laughed out loud at the sudden scene with the asshole kid being punched *hard* in the face so maybe there could have been more of that.
 
 <span class="reviewsection">Trivia about the IMDb trivia:</span>
 > The Irish priest is named Mark Amadin. Throughout the movie, he refuses to believe that there are supernatural forces at work. "Amadán" in Irish means "fool".
