@@ -6,8 +6,9 @@ import webbrowser
 from datetime import datetime
 from pathlib import Path
 from PIL import Image
-from imdb import IMDb
 from io import BytesIO
+from imdbinfo import search_title, get_movie, get_name, get_season_episodes, get_reviews, get_trivia
+from imdbinfo.locale import set_locale
 
 # DEFAULTS AND CONSTANTS
 DEFAULT_TEMPLATE = "../_drafts/film-review-template.md"
@@ -75,35 +76,44 @@ def download_and_resize_image(image_url, save_location, file_name):
 
 def download_and_resize_poster(movie_filename, movie_pretty_title, image_save_location, release_year=None):
     # Initialize IMDb
-    ia = IMDb()
+    set_locale("en")
 
     try:
         # Search for the movie
-        results = ia.search_movie(movie_pretty_title)
+        results = search_title(movie_pretty_title)
 
         if not results:
             raise ValueError(f"Movie '{movie_pretty_title}' not found on IMDb.")
 
         # Ask the user to choose if multiple results are found
+        numResults = len(results.titles)
+        print(f"{numResults} results found for '{movie_pretty_title}':")
         print(f"Multiple results found for '{movie_pretty_title}':")
-        for idx, result in enumerate(results[:10], start=1):
-            title = result.get('title', 'Unknown Title')
-            print(f"{idx}. {title}")
+        if numResults > 10:
+            printf("Printing the first 10 values")
+        idx = 1
+        for movie in results.titles[:10]:
+            print(f"\t{idx}. {movie.title}  ({movie.year})")
+            idx +=1
 
-        choice = int(input("Enter the number of the movie you want: ").strip())
-        if choice < 1 or choice > len(results[:10]):
-            raise ValueError("Invalid choice.")
+        choice_text = input("Enter the number of the movie you want: ").strip()
+        choice = int(choice_text) if choice_text else None
+        choice = 1 if choice is None else choice
+        while choice < 1 or choice > numResults:
+            choice_text = input("Enter the number of the movie you want: ").strip()
+            choice = int(choice_text) if choice_text else None
+            choice = 1 if choice is None else choice
 
-        movie = results[choice - 1]
+        chosen_movie = results.titles[choice-1]
 
         if not movie:
             raise ValueError(f"Movie '{movie_pretty_title}' not found on IMDb.")
 
         # Get movie details (including poster)
-        ia.update(movie)
-        poster_url = movie.get('full-size cover url')
-        movie_url = f"https://www.imdb.com/title/tt{movie.movieID}/"
-        movie_images_url = f"https://www.imdb.com/title/tt{movie.movieID}/mediaindex/"
+        movie_locale_hindi = get_movie(chosen_movie.imdb_id, locale="hi")
+        poster_url = movie_locale_hindi.cover_url
+        movie_url = movie_locale_hindi.url
+        movie_images_url = f"{movie_url}mediaindex/"
 
         if not poster_url:
             raise ValueError(f"Poster not found for movie '{movie_pretty_title}'.")
