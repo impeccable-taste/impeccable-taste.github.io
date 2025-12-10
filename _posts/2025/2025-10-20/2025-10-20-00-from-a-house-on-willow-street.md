@@ -9,7 +9,7 @@ image:
     path: "from-a-house-on-willow-street.png"
 ---
 {% include spooktober-2025.html %}
-<span class="reviewsection">Premise:</span> This group of evildoers decide to kidnap the daughter of a very wealthy family, the ransom money surely will fix everything! Of course the problem in this case is that the kidnapee is actually **possessed** and things will get **spooky** and **jumpscary**!!<br/>
+<span class="reviewsection">Premise:</span> This group of evildoers decide to kidnap the dorter of a very wealthy family, the ransom money surely will fix everything! Of course the problem in this case is that the kidnapee is actually **possessed** and things will get **spooky** and **jumpscary**!!<br/>
 <span class="reviewsection">Under 90 minutes?</span> my copy was exactly that, good job!<br/>
 <span class="reviewsection">Do they say the title?</span> No they didn't.
 
