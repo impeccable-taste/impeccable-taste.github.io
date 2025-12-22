@@ -147,8 +147,6 @@ def download_and_resize_poster(movie_filename, movie_pretty_title, image_save_lo
         webbrowser.open(movie_url)  # Open the link in the default browser
         print(f"IMDb URL for the movie pics: {movie_images_url}")
         webbrowser.open(movie_images_url)
-        os.path.realpath(save_location)
-        os.startfile(path)
 
         url_input = input("Enter the image URL (optional): ").strip()
         image_url = url_input if url_input else None
@@ -231,8 +229,6 @@ def create_file_structure_and_copy_template(review_name_input, release_year):
 
     print(f"File created: {output_file_path}")
     download_and_resize_poster(review_filename, review_pretty_title, image_save_location)
-    os.path.realpath(save_location)
-    os.startfile(path)
 
 if __name__ == "__main__":
     review_name_input = input("Enter the name: ").strip().lower()
