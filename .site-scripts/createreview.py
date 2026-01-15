@@ -89,8 +89,6 @@ def download_and_resize_poster(movie_filename, movie_pretty_title, image_save_lo
         numResults = len(results.titles)
         print(f"{numResults} results found for '{movie_pretty_title}':")
         print(f"Multiple results found for '{movie_pretty_title}':")
-        if numResults > 10:
-            printf("Printing the first 10 values")
         idx = 1
         for movie in results.titles[:10]:
             print(f"\t{idx}. {movie.title}  ({movie.year})")
