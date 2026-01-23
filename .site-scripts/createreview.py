@@ -14,6 +14,26 @@ from imdbinfo.locale import set_locale
 DEFAULT_TEMPLATE = "../_drafts/film-review-template.md"
 DEFAULT_LOCATION = "../_posts/"
 IMAGE_LOCATION = "../assets/img/posts/"
+DEBUG_MODE = False
+
+# COLORS
+BLACK = '\033[30m'
+RED = '\033[31m'
+GREEN = '\033[32m'
+YELLOW = '\033[33m' # orange on some systems
+BLUE = '\033[34m'
+MAGENTA = '\033[35m'
+CYAN = '\033[36m'
+LIGHT_GRAY = '\033[37m'
+DARK_GRAY = '\033[90m'
+BRIGHT_RED = '\033[91m'
+BRIGHT_GREEN = '\033[92m'
+BRIGHT_YELLOW = '\033[93m'
+BRIGHT_BLUE = '\033[94m'
+BRIGHT_MAGENTA = '\033[95m'
+BRIGHT_CYAN = '\033[96m'
+WHITE = '\033[97m'
+RESET = '\033[0m' # called to return to standard terminal text color
 
 # this changes the input from "lOrD oF tHe riNgs" to "lord-of-the-rigns"
 def create_review_filename(title):
@@ -67,12 +87,13 @@ def download_and_resize_image(image_url, save_location, file_name):
 
         # Save the image in PNG format
         save_path = os.path.join(save_location, f"{file_name}.png")
-        img.save(save_path, "PNG")
+        if not DEBUG_MODE:
+            img.save(save_path, "PNG")
 
-        print(f"Image saved successfully at {save_path}")
+        print(YELLOW+"Image saved successfully at "+DARK_GRAY+f"{save_location}\\"+YELLOW+f"{file_name}\\"+RESET)
 
     except Exception as e:
-        print(f"An error occurred: {e}")
+        print(BRIGHT_RED+"An error occurred: "+RESET+f'{e}')
 
 def download_and_resize_poster(movie_filename, movie_pretty_title, image_save_location, release_year=None):
     # Initialize IMDb
@@ -87,18 +108,21 @@ def download_and_resize_poster(movie_filename, movie_pretty_title, image_save_lo
 
         # Ask the user to choose if multiple results are found
         numResults = len(results.titles)
-        print(f"{numResults} results found for '{movie_pretty_title}':")
-        print(f"Multiple results found for '{movie_pretty_title}':")
+        print(YELLOW+f"{numResults}"+DARK_GRAY+" results found for "+BLUE+f"{movie_pretty_title}"+DARK_GRAY+"':"+RESET)
+        # print(f"{numResults} results found for '{movie_pretty_title}':")
+        # print(f"Multiple results found for '{movie_pretty_title}':")
+
         idx = 1
         for movie in results.titles[:10]:
-            print(f"\t{idx}. {movie.title}  ({movie.year})")
+            # print(f"\t{idx}. {movie.title}  ({movie.year})")
+            print(DARK_GRAY+f"\t{idx}. "+YELLOW+f"{movie.title}  "+BRIGHT_BLUE+f"({movie.year})"+RESET)
             idx +=1
 
-        choice_text = input("Enter the number of the movie you want: ").strip()
+        choice_text = input(BRIGHT_BLUE+"Enter the number of the movie you want: "+RESET).strip()
         choice = int(choice_text) if choice_text else None
         choice = 1 if choice is None else choice
         while choice < 1 or choice > numResults:
-            choice_text = input("Enter the number of the movie you want: ").strip()
+            choice_text = input(BRIGHT_BLUE+"Enter the number of the movie you want: "+RESET).strip()
             choice = int(choice_text) if choice_text else None
             choice = 1 if choice is None else choice
 
@@ -125,34 +149,36 @@ def download_and_resize_poster(movie_filename, movie_pretty_title, image_save_lo
         save_location = os.path.abspath(image_save_location)
         poster_filename = os.path.join(save_location, f"{movie_filename}-cover.png")
 
-        print(f"Movie found! ['{poster_filename}']")
+        print(BRIGHT_BLUE+"Movie found! ["+YELLOW+f"'{poster_filename}'"+BRIGHT_BLUE+"]"+RESET)
 
-        with open(poster_filename, 'wb') as file:
-            for chunk in response.iter_content(1024):
-                file.write(chunk)
+        if not DEBUG_MODE:
+            with open(poster_filename, 'wb') as file:
+                for chunk in response.iter_content(1024):
+                    file.write(chunk)
 
-        # Resize the poster
-        with Image.open(poster_filename) as img:
-            aspect_ratio = img.width / img.height
-            new_height = 500
-            new_width = int(new_height * aspect_ratio)
-            img_resized = img.resize((new_width, new_height))
-            img_resized.save(poster_filename)
+            # Resize the poster
+            with Image.open(poster_filename) as img:
+                aspect_ratio = img.width / img.height
+                new_height = 500
+                new_width = int(new_height * aspect_ratio)
+                img_resized = img.resize((new_width, new_height))
+                img_resized.save(poster_filename)
 
-        print(f"Poster for '{movie_pretty_title}' saved as '{poster_filename}' and resized to height 500 pixels.")
+        print(BRIGHT_BLUE+"Poster for "+YELLOW+f"'{movie_pretty_title}'"+BRIGHT_BLUE+" saved as "+RESET+f"'{poster_filename}'"+BRIGHT_BLUE+"and resized to height 500 pixels."+RESET)
 
-        print(f"IMDb URL for the movie: {movie_url}")
+        print(BRIGHT_BLUE+"IMDb URL for the movie: "+YELLOW+f"{movie_url}"+RESET)
         webbrowser.open(movie_url)  # Open the link in the default browser
-        print(f"IMDb URL for the movie pics: {movie_images_url}")
+        print(BRIGHT_BLUE+"IMDb URL for the movie pics: "+YELLOW+f"{movie_images_url}"+RESET)
         webbrowser.open(movie_images_url)
 
-        url_input = input("Enter the image URL (optional): ").strip()
+        url_input = input(BRIGHT_BLUE+"Enter the image URL (optional): "+RESET).strip()
         image_url = url_input if url_input else None
         if image_url is not None:
             download_and_resize_image(image_url, image_save_location, movie_filename)
 
     except Exception as e:
-        print(f"Error: {e}")
+        print(BRIGHT_RED+"An error occurred:"+RESET, end=" ")
+        print(f'{e}')
 
 def create_file_structure_and_copy_template(review_name_input, release_year):
     # Give "release year" a placeholder value if it doesn't exist
@@ -190,13 +216,13 @@ def create_file_structure_and_copy_template(review_name_input, release_year):
     # create destination directory for the post
     save_location = save_location + "/" + review_publish_year + "/" + review_publish_date
     save_location = os.path.abspath(save_location)
-    if not os.path.exists(save_location):
+    if not os.path.exists(save_location) and not DEBUG_MODE:
         os.makedirs(save_location)
 
     # create destination directory for images
     image_save_location = IMAGE_LOCATION + "/" + review_publish_date
     image_save_location = os.path.abspath(image_save_location)
-    if not os.path.exists(image_save_location):
+    if not os.path.exists(image_save_location) and not DEBUG_MODE:
         os.makedirs(image_save_location)
 
     # Read the template file
@@ -222,15 +248,22 @@ def create_file_structure_and_copy_template(review_name_input, release_year):
     output_file_path = os.path.join(save_location, output_filename)
 
     # Write the content to the new file
-    with open(output_file_path, "w") as output_file:
-        output_file.write(output_content)
+    if not DEBUG_MODE:
+        with open(output_file_path, "w") as output_file:
+            output_file.write(output_content)
 
-    print(f"File created: {output_file_path}")
+    print(BRIGHT_BLUE+"File created:"+RESET)
+    print(DARK_GRAY+f'\t{save_location}\\'+YELLOW+f'{output_filename}'+RESET)
     download_and_resize_poster(review_filename, review_pretty_title, image_save_location)
 
 if __name__ == "__main__":
-    review_name_input = input("Enter the name: ").strip().lower()
-    release_year_input = input("Enter the release year (optional): ").strip()
+    if len(sys.argv) > 1:
+        DEBUG_MODE = sys.argv[1] == '-d'
+    if DEBUG_MODE:
+        print(BRIGHT_RED+"\nDEBUG MODE ON: no files will be created or saved\n"+RESET)
+
+    review_name_input = input(BRIGHT_BLUE+"Enter the name: "+RESET).strip().lower()
+    release_year_input = input(BRIGHT_BLUE+"Enter the release year (optional): "+RESET).strip()
     release_year = release_year_input if release_year_input else None
 
     create_file_structure_and_copy_template(review_name_input, release_year)
