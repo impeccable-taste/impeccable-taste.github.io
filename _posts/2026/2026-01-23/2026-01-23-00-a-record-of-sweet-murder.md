@@ -9,6 +9,7 @@ image:
     path: "a-record-of-sweet-murder.png"
 ---
 {% include jaypeghorror.html %}
+{% include kpophorror.html %}
 <span class="reviewsection">Premise:</span> This dude's spent most of his life in an insane asylum after witnessing a terrible accident when he was a kid traumatized him. Now that he's out, he's making up for the lost time in the way these things tend to go: becoming some sort of serial killer! He calls this journalist, another childhood friend of his that also witnessed the accident, and tells her she's in for the scoop of the century. With a tiny condition: they must meet in this delerict building in the middle of nowhere (Seul), she must bring a cameraman *and* the camera MUST be filming continuously. Nothing worrying about all this!<br/>
 
 <span class="reviewsection">Under 90 minutes?</span> Yeah!<br/>
