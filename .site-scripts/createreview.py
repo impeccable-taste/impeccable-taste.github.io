@@ -37,6 +37,7 @@ RESET = '\033[0m' # called to return to standard terminal text color
 
 # this changes the input from "lOrD oF tHe riNgs" to "lord-of-the-rigns"
 def create_review_filename(title):
+    title = title.replace("'", "")
     title = title.replace(" ", "-")
     title = title.replace("_", "-")
     title.lower()
