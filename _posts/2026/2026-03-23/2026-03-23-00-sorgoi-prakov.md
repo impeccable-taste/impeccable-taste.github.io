@@ -3,7 +3,7 @@ title: Sorgoï Prakov (2013)
 description: I visited Paris when I was little and I didn't care much for it.
 date: 2026-03-23 21:24:10 +0100
 categories: [films, horror films]
-tags: [film reviews, horror, accurate portrayal of another country, altered states, ffound footage, influencers!, let's drink our way out, lowbudgetcore, middleofnowherecore, spooky painting, vacationsploitation, what the hell was that, wrong place wrong face, ñam ñam qué rico, they say the title]
+tags: [film reviews, horror, accurate portrayal of another country, altered states, found footage, influencers!, let's drink our way out, lowbudgetcore, middleofnowherecore, spooky painting, vacationsploitation, what the hell was that, wrong place wrong face, ñam ñam qué rico, they say the title]
 media_subpath: "/assets/img/posts/2026-03-23/"
 image:
     path: "sorgoi-prakov.png"
