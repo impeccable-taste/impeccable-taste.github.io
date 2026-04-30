@@ -16,7 +16,7 @@ draft: true
 
 <span class="reviewsection">First thing I thought of:</span>
 
-![]({{TITLE}}.gif)<br/>
+![{{TITLE}}]({{TITLE}}.gif)<br/>
 <span class="reviewsection">Okay, more:</span> <br/>
 
 <span class="reviewsection">A simple way to improve it:</span>
