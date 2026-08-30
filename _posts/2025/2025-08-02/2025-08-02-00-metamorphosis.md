@@ -3,7 +3,7 @@ title: Metamorphosis (2019)
 description: Not Franz Kafka's or John Carpenter's, though
 date: 2025-08-02 22:20:42 +0200
 categories: [films, horror films]
-tags: [film reviews, horror, kpop horror, haunted-housesploitation, let's dumb our way out, netflixcore, satanic panic, snorecore, why would you even keep that thing at home, they don't say the title]
+tags: [film reviews, horror, kpop horror, haunted-housesploitation, let's dumb our way out, spooky kid, netflixcore, satanic panic, snorecore, why would you even keep that thing at home, they don't say the title]
 media_subpath: "/assets/img/posts/2025-08-02/"
 image:
     path: "metamorphosis.png"

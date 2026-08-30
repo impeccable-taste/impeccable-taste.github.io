@@ -3,7 +3,7 @@ title: Violent Faculties (2024)
 description: love you to bits, specially maybe the tip of your tongue
 date: 2026-02-01 00:15:01 +0100
 categories: [books, horror books]
-tags: [book reviews, horror, altered states, body horror, cool weird crap, eat the rich, essays, featuring a dog, let's gore our way out, pretty metal, what the hell was that, ñam ñam qué rico, they don't say the title]
+tags: [book reviews, horror, altered states, body horror, cool weird crap, eat the rich, essays, featuring a dog, let's gore our way out, my-crimes.txt, pretty metal, what the hell was that, ñam ñam qué rico, they don't say the title]
 media_subpath: "/assets/img/posts/2026-02-01/"
 image:
     path: "violent-faculties.png"

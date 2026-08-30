@@ -3,7 +3,7 @@ title: Subservience (2024)
 description: Johnny 5 would be really disappointed
 date: 2026-03-08 21:54:12 +0100
 categories: [films, horror films]
-tags: [film reviews, horror, buttsploitation, high heels and leather, it's a metaphor d'uh, netflixcore, snorecore, the writer's barely-disguised fetish, thriller, they don't say the title]
+tags: [film reviews, horror, buttsploitation, high heels and leather, it's a metaphor d'uh, netflixcore, snorecore, the writer's barely-disguised fetish, thriller, spooky kid, they don't say the title]
 media_subpath: "/assets/img/posts/2026-03-08/"
 image:
     path: "subservience.png"

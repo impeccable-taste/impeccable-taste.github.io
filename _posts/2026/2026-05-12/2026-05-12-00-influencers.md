@@ -3,7 +3,7 @@ title: Influencers (2025)
 description: thes mosts despicables jobs
 date: 2026-05-12 22:10:55 +0200
 categories: [films, thrillers]
-tags: [film reviews, thriller, black comedy, buttsploitation, eat the rich, featuring the most obnoxious people on earth, high heels and leather, influencers!, let's punch our way out,  the internet is scary, vaudeville, the writer's barely-disguised fetish, middleofnowherecore, vacationsploitation, wrong place wrong face, they don't say the title]
+tags: [film reviews, thriller, black comedy, buttsploitation, eat the rich, featuring the most obnoxious people on earth, high heels and leather, influencers!, let's punch our way out, my-crimes.txt, the internet is scary, vaudeville, the writer's barely-disguised fetish, middleofnowherecore, vacationsploitation, wrong place wrong face, they don't say the title]
 media_subpath: "/assets/img/posts/2026-05-12/"
 image:
     path: "influencers.png"

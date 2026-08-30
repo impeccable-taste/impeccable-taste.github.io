@@ -3,7 +3,7 @@ title: Maternal Instinct (2026)
 description: A thing I have thankfully never felt
 date: 2026-07-30 22:13:07 +0200
 categories: [films, documentary]
-tags: [film reviews, documentary, accurate portrayal of another country, body horror, eat the rich, middleofnowherecore, secret horror movie, true crime fans are the worst, they don't say the title]
+tags: [film reviews, documentary, accurate portrayal of another country, body horror, eat the rich, middleofnowherecore, secret horror movie, true crime fans are the worst, featuring a dog, they don't say the title]
 media_subpath: "/assets/img/posts/2026-07-30/"
 image:
     path: "maternal-instinct.png"

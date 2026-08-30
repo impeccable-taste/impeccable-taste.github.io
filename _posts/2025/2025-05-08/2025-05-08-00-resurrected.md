@@ -3,7 +3,7 @@ title: Resurrected (2023)
 description: By now you should know it's a bad idea to trust the church and specially the catholic church
 date: 2025-05-08 21:55:55 +0200
 categories: [films, horror films]
-tags: [film reviews, horror, featuring the most obnoxious people on earth, found footage, the internet is scary, lowbudgetcore, satanic panic, screenlife, snorecore, there was an attempt, they say the title]
+tags: [film reviews, horror, featuring the most obnoxious people on earth, found footage, the internet is scary, lowbudgetcore, satanic panic, screenlife, snorecore, spooky kid, there was an attempt, they say the title]
 media_subpath: "/assets/img/posts/2025-05-08/"
 image:
     path: "resurrected.png"

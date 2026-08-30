@@ -3,7 +3,7 @@ title: Final Destination Bloodlines (2025)
 description: This movie sponsored by ACME
 date: 2025-05-27 21:55:54 +0200
 categories: [films, horror films]
-tags: [film reviews, horror, horror comedy, black comedy, let's die our way out, pretty metal, secret sad movie, they don't say the title]
+tags: [film reviews, horror, horror comedy, black comedy, let's die our way out, pretty metal, secret sad movie, spooky kid, they don't say the title]
 media_subpath: "/assets/img/posts/2025-05-27/"
 image:
     path: "final-destination-bloodlines.png"

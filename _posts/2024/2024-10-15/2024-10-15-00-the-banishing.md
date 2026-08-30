@@ -3,7 +3,7 @@ title: The Banishing (2020)
 description: What's with British people and big houses?
 date: 2024-10-15 18:34:24 +0100
 categories: [films, horror films]
-tags: [film reviews, horror, spooktober 2024, netflixcore, haunted-housesploitation, they don't say the title]
+tags: [film reviews, horror, spooktober 2024, netflixcore, haunted-housesploitation, spooky kid, spooky doll, they don't say the title]
 media_subpath: "/assets/img/posts/2024-10-15/"
 image:
     path: "the-banishing.png"

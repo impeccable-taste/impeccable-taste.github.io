@@ -3,7 +3,7 @@ title: A Record of Sweet Murder (2014)
 description: It's not about Cannibal Corpse's discography though
 date: 2026-01-23 21:45:21 +0100
 categories: [films, horror films]
-tags: [film reviews, horror, jaypeg horror, black comedy, featuring the most obnoxious people on earth, found footage, high heels and leather, kpop horror, let's die our way out, lowbudgetcore, middleofnowherecore, secret romcom, the writer's barely-disguised fetish, time shenanigans, true crime fans are the worst, vhs nostalgia, what the hell was that, they don't say the title]
+tags: [film reviews, horror, jaypeg horror, black comedy, featuring the most obnoxious people on earth, found footage, high heels and leather, kpop horror, let's die our way out, lowbudgetcore, middleofnowherecore, my-crimes.txt, secret romcom, the writer's barely-disguised fetish, time shenanigans, true crime fans are the worst, vhs nostalgia, what the hell was that, they don't say the title]
 media_subpath: "/assets/img/posts/2026-01-23/"
 image:
     path: "a-record-of-sweet-murder.png"

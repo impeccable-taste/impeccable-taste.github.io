@@ -3,7 +3,7 @@ title: The Last House on Needless Street (2021)
 description: Garfield and Friends
 date: 2024-10-05 19:02:19 +0100
 categories: [books, horror books]
-tags: [book reviews, horror, spooktober 2024, haunted-housesploitation, they don't say the title]
+tags: [book reviews, horror, spooktober 2024, haunted-housesploitation, featuring a cat, they don't say the title]
 media_subpath: "/assets/img/posts/2024-10-05/"
 image:
     path: "the-last-house-on-needless-street.png"

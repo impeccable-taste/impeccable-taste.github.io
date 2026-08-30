@@ -3,7 +3,7 @@ title: Capture Kill Release (2016)
 description: Isn't it cute when a couple wants to do things together?
 date: 2025-08-20 21:50:23 +0200
 categories: [films, horror films]
-tags: [film reviews, horror, buttsploitation, eat the rich, found footage, high heels and leather, the writer's barely-disguised fetish, let's die our way out, lowbudgetcore, movies that tell you what you should do, pretty metal, true crime fans are the worst, why would you touch that, wrong place wrong face, they don't say the title]
+tags: [film reviews, horror, buttsploitation, eat the rich, found footage, high heels and leather, the writer's barely-disguised fetish, let's die our way out, lowbudgetcore, my-crimes.txt, movies that tell you what you should do, pretty metal, true crime fans are the worst, why would you touch that, wrong place wrong face, they don't say the title]
 media_subpath: "/assets/img/posts/2025-08-20/"
 image:
     path: "capture-kill-release.png"

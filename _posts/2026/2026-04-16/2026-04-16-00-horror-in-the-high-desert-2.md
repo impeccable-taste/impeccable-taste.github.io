@@ -3,7 +3,7 @@ title: Horror in the High Desert 2 - Minerva (2023)
 description: that desert is REALLY high i tell you hwat
 date: 2026-04-16 22:36:25 +0200
 categories: [films, horror films]
-tags: [film reviews, horror, found footage, folk horror, spooky painting, lowbudgetcore, middleofnowherecore, wrong place wrong face, they don't say the title]
+tags: [film reviews, horror, featuring a dog, found footage, folk horror, spooky painting, lowbudgetcore, middleofnowherecore, wrong place wrong face, they don't say the title]
 media_subpath: "/assets/img/posts/2026-04-16/"
 image:
     path: "horror-in-the-high-desert-2.png"

@@ -3,7 +3,7 @@ title: If I Had Legs I'd Kick You (2025)
 description: Never, ever have kids, kids.
 date: 2026-03-10 21:31:00 +0100
 categories: [films, horror films, drama]
-tags: [film reviews, horror, black comedy, drama, body horror, featuring the most obnoxious people on earth, it's a metaphor d'uh, secret horror movie, why would you touch that, they don't say the title]
+tags: [film reviews, horror, black comedy, drama, body horror, featuring the most obnoxious people on earth, it's a metaphor d'uh, spooky kid, secret horror movie, why would you touch that, they don't say the title]
 media_subpath: "/assets/img/posts/2026-03-10/"
 image:
     path: "if-i-had-legs-id-kick-you.png"

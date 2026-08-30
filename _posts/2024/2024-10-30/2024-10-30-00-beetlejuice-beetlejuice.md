@@ -3,7 +3,7 @@ title: Beetlejuice Beetlejuice (2024)
 description: Bitelchús Bitelchús (2024)
 date: 2024-10-30 21:00:55 +0100
 categories: [films, horror films]
-tags: [film reviews, horror, horror comedy, secret musical, willem dafoe's cinematic universe, vhs nostalgia, spooktober 2024, they say the title]
+tags: [film reviews, horror, horror comedy, secret musical, willem dafoe's cinematic universe, vhs nostalgia, spooktober 2024, spooky kid, they say the title]
 media_subpath: "/assets/img/posts/2024-10-30/"
 image:
     path: "beetlejuice-beetlejuice.png"
@@ -14,7 +14,7 @@ image:
 
 <span class="reviewsection">One sentence review:</span> The spanish word for "*expanded polystyrene*" is "*corchopán*", and this movie is full of that, puppets, goo/jelly and practical effects.<br/>
 <span class="reviewsection">Okay, more:</span> Surprisingly funny but it's also like, five different short movies strewn together for some reason. There's also way too much Known Pedo and Sex Offender Jeffrey Jones here even if he's not really in the movie.<br/>
-<span class="reviewsection">A simple way to improve it:</span>
+<span class="reviewsection">A simple way to improve it:</span> Less Known Sexual Abuser and Pedophile Jeffrey Jones would be a great start.
 
 <span class="reviewsection">Trivia about the IMDb trivia:</span>
 > During an appearance on the *Happy, Sad, Confused* podcast, Winona Ryder admitted that she considered Beetlejuice and Lydia's "*endgame*" and advocated for them getting together
