@@ -3,7 +3,7 @@ title: Bones and All (2022)
 description: what if "ewwwww" but also "awwwww"?
 date: 2026-09-24 00:42:47 +0200
 categories: [films, horror films]
-tags: [film reviews, horror, body horrror, eat the rich, secret romcom, ñam ñam qué rico, they say the title]
+tags: [film reviews, horror, body horror, eat the rich, secret romcom, ñam ñam qué rico, they say the title]
 media_subpath: "/assets/img/posts/2026-09-24/"
 image:
     path: "bones-and-all.png"
