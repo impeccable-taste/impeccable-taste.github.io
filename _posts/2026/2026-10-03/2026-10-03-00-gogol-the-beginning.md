@@ -25,6 +25,6 @@ image:
 
 No fun trivia so whatever. I happen to *like* what I've read of Gogol's writing so this at times felt like a heartfelt love letter (there are *way* too many little jokes and references that the characters do not wink at like "huh? get it? like when this thing or that thing?" and I'm sure I'm only getting a handful of them, for example), but at the same time goodness gracious is this very clearly a Russian movie that wants to say that Gogol was a Russian writer and at no point they even mention Ukraine (except by the "little russia" remark, which, yeah, I am aware is something that people used to say, but only *certain people* say it nowadays). There's a kinda hilarious in how sad it feels moment where a character tells our awkward protagonist that he should stop writing about Germany (***Hans Küchelgarten***) and instead focus on what he knows and loves. You know, places like here, Dykanka. You know, ~~Ukr~~Little Russia.
 
-{% include really.html %}
+{% include blunder.html %}
 
 I know, I know, this is the kind of comment I'd reply to in a mocking tone if it was on the IMDb trivia but if you've been reading this blog for a while you should know here at the Impeccable Taste HQ we're, if anything, big phonies.
