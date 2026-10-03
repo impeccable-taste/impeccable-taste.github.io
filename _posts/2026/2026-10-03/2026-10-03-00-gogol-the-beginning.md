@@ -3,11 +3,12 @@ title: Gogol. The Beginning (2017)
 description: what if literature, but not really?
 date: 2026-10-03 16:33:51 +0200
 categories: [films, horror films]
-tags: [film reviews, horror, adventure, altered states, anime, black comedy, buttsploitation, let's drink our way out, lowbudgetcore, middleofnowherecore, netflixcore, secret comedy movie, there was an attempt, true crime fans are the worst, why would you touch that, wrong place wrong face, they don't say the title]
+tags: [film reviews, horror, adventure, altered states, anime, black comedy, buttsploitation, let's drink our way out, lowbudgetcore, middleofnowherecore, netflixcore, secret comedy movie, spooktober 2026, there was an attempt, true crime fans are the worst, why would you touch that, wrong place wrong face, they don't say the title]
 media_subpath: "/assets/img/posts/2026-10-03/"
 image:
     path: "gogol-the-beginning.png"
 ---
+{% include spooktober-2026.html %}
 <span class="reviewsection">Premise:</span> There's something deliciously stupid about thinking "I'm going to adapt some of Gogol's short stories and also his own life!" and then going "which obviously means it's going to be about how he's a detective slash monster hunter that solves supernatural crimes thanks to his magical visions, of course!". Also, boobs.<br/>
 
 <span class="reviewsection">Under 90 minutes?</span> Nope.<br/>
