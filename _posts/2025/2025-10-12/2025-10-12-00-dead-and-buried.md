@@ -3,7 +3,7 @@ title: Dead & Buried (1981)
 description: This is why I have trust issues sometimes.
 date: 2025-10-12 09:48:16 +0200
 categories: [films, horror films]
-tags: [film reviews, horror, altered states, body horror, cool weird crap, let's die our way out, middleofnowherecore, pretty metal, wrong place wrong face, spooktober 2025, they don't say the title]
+tags: [film reviews, horror, altered states, body horror, cool weird crap, let's die our way out, middleofnowherecore, pretty metal, wrong place wrong face, spooktober 2025, spooktober, they don't say the title]
 media_subpath: "/assets/img/posts/2025-10-12/"
 image:
     path: "dead-and-buried.png"

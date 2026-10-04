@@ -3,7 +3,7 @@ title: Lisa Frankenstein (2024)
 description: Love will tear us apart.
 date: 2025-10-10 08:30:00 +0200
 categories: [films, horror films]
-tags: [film reviews, horror, altered states, body horror, buttsploitation, cool weird crap, high heels and leather, horror comedy, romcom, the writer's barely-disguised fetish, vhs nostalgia, why would you touch that, spooktober 2025, they don't say the title]
+tags: [film reviews, horror, altered states, body horror, buttsploitation, cool weird crap, high heels and leather, horror comedy, romcom, the writer's barely-disguised fetish, vhs nostalgia, why would you touch that, spooktober 2025, spooktober, they don't say the title]
 media_subpath: "/assets/img/posts/2025-10-10/"
 image:
     path: "lisa-frankenstein.png"

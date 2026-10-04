@@ -3,7 +3,7 @@ title: The Empty Man (2020)
 description: the worst possible nickname?
 date: 2025-10-28 21:31:39 +0100
 categories: [films, horror films]
-tags: [film reviews, horror, altered states, cool weird crap, folk horror, just shaman stuff, let's die our way out, spooktober 2025, they say the title]
+tags: [film reviews, horror, altered states, cool weird crap, folk horror, just shaman stuff, let's die our way out, spooktober 2025, spooktober, they say the title]
 media_subpath: "/assets/img/posts/2025-10-28/"
 image:
     path: "the-empty-man.png"

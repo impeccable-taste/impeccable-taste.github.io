@@ -3,7 +3,7 @@ title: The Front Room (2024)
 description: Oh, that's a boss from Blasphemous
 date: 2024-10-24 23:26:05 +0100
 categories: [films, horror films]
-tags: [film reviews, horror, horror comedy, hagsploitation, fartsploitation, buttsploitation, spooktober 2024, they say the title]
+tags: [film reviews, horror, horror comedy, hagsploitation, fartsploitation, buttsploitation, spooktober 2024, spooktober, they say the title]
 media_subpath: "/assets/img/posts/2024-10-24/"
 image:
     path: "the-front-room.png"

@@ -3,7 +3,7 @@ title: The Andy Baker Tape (2022)
 description: In case you thought that being an influencer wasn't too big a red flag, how about being a food blogger?
 date: 2025-10-01 09:20:22 +0200
 categories: [films, horror films]
-tags: [film reviews, horror, eat the rich, featuring the most obnoxious people on earth, found footage, influencers!, just nepo baby things, lowbudgetcore, secret romcom, the internet is scary, ñam ñam qué rico, spooktober 2025, they don't say the title]
+tags: [film reviews, horror, eat the rich, featuring the most obnoxious people on earth, found footage, influencers!, just nepo baby things, lowbudgetcore, secret romcom, the internet is scary, ñam ñam qué rico, spooktober 2025, spooktober, they don't say the title]
 media_subpath: "/assets/img/posts/2025-10-01/"
 image:
     path: "the-andy-baker-tape.png"

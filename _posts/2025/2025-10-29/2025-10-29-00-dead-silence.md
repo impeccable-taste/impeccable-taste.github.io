@@ -3,7 +3,7 @@ title: Dead Silence (2007)
 description: Gabbo! Gabbo!! GABBO!!!!
 date: 2025-10-29 08:30:00 +0100
 categories: [films, horror films]
-tags: [film reviews, horror, hagsploitation, haunted-housesploitation, let's die our way out, snorecore, netflixcore, spooky doll, vaudeville, why would you even keep that thing at home, spooktober 2025, they don't say the title]
+tags: [film reviews, horror, hagsploitation, haunted-housesploitation, let's die our way out, snorecore, netflixcore, spooky doll, vaudeville, why would you even keep that thing at home, spooktober 2025, spooktober, they don't say the title]
 media_subpath: "/assets/img/posts/2025-10-29/"
 image:
     path: "dead-silence.png"

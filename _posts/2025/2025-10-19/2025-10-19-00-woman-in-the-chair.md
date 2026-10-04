@@ -3,7 +3,7 @@ title: Woman in the Chair (2022)
 description: The unexpected sequel to The Woman in the Yard?
 date: 2025-10-19 09:34:59 +0200
 categories: [films, horror films]
-tags: [film reviews, horror, accurate portrayal of another country, eat the rich, hagsploitation, haunted-housesploitation, influencers!, it's a metaphor d'uh, just nepo baby things, long hair is scary, lowbudgetcore, middleofnowherecore, snorecore, the internet is scary, there was an attempt, why would you touch that, wrong place wrong face, spooktober 2025, they say the title]
+tags: [film reviews, horror, accurate portrayal of another country, eat the rich, hagsploitation, haunted-housesploitation, influencers!, it's a metaphor d'uh, just nepo baby things, long hair is scary, lowbudgetcore, middleofnowherecore, snorecore, the internet is scary, there was an attempt, why would you touch that, wrong place wrong face, spooktober 2025, spooktober, they say the title]
 media_subpath: "/assets/img/posts/2025-10-19/"
 image:
     path: "woman-in-the-chair.png"

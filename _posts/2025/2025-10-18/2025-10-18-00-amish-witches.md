@@ -3,7 +3,7 @@ title: Amish Witches - The True Story of Holmes County (2016)
 description: everything i know about the amish is either from that Weird Al song, the Harrison Ford movie or Dwight
 date: 2025-10-18 21:27:54 +0200
 categories: [films, horror films]
-tags: [film reviews, horror, accurate portrayal of another country, folk horror, found footage, germansploitation, hagsploitation, haunted-housesploitation, middleofnowherecore, satanic panic, snorecore, spooky doll, spooktober 2025, they don't say the title]
+tags: [film reviews, horror, accurate portrayal of another country, folk horror, found footage, germansploitation, hagsploitation, haunted-housesploitation, middleofnowherecore, satanic panic, snorecore, spooky doll, spooktober 2025, spooktober, they don't say the title]
 media_subpath: "/assets/img/posts/2025-10-18/"
 image:
     path: "amish-witches.png"

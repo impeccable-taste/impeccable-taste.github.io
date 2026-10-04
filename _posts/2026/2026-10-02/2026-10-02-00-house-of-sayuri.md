@@ -3,7 +3,7 @@ title: House of Sayuri (2024)
 description: Reinforcing certain stereotypes about japanese people and martial arts
 date: 2026-10-02 17:42:14 +0200
 categories: [films, horror films]
-tags: [film reviews, horror, altered states, black comedy, buttsploitation, hagsploitation, haunted-housesploitation, horror comedy, just shaman stuff, kaiju, long hair is scary, middleofnowherecore, secret comedy movie, spooktober 2026, spooky kid, spooky painting, there was an attempt, vaudeville, what the hell was that, body horror, jaypeg horror, they say the title]
+tags: [film reviews, horror, altered states, black comedy, buttsploitation, hagsploitation, haunted-housesploitation, horror comedy, just shaman stuff, kaiju, long hair is scary, middleofnowherecore, secret comedy movie, spooktober 2026, spooktober, spooky kid, spooky painting, there was an attempt, vaudeville, what the hell was that, body horror, jaypeg horror, they say the title]
 media_subpath: "/assets/img/posts/2026-10-02/"
 image:
     path: "house-of-sayuri.png"

@@ -3,7 +3,7 @@ title: Best Wishes to All (2023)
 description: In case you're feeling a bit down today
 date: 2025-10-23 09:10:00 +0200
 categories: [films, horror films]
-tags: [film reviews, horror, black comedy, cool weird crap, hagsploitation, it's a metaphor d'uh, jaypeg horror, just shaman stuff, middleofnowherecore, secret romcom, vacationsploitation, what the hell was that, why would you even keep that thing at home, spooktober 2025, they don't say the title]
+tags: [film reviews, horror, black comedy, cool weird crap, hagsploitation, it's a metaphor d'uh, jaypeg horror, just shaman stuff, middleofnowherecore, secret romcom, vacationsploitation, what the hell was that, why would you even keep that thing at home, spooktober 2025, spooktober, they don't say the title]
 media_subpath: "/assets/img/posts/2025-10-23/"
 image:
     path: "best-wishes-to-all.png"

@@ -3,7 +3,7 @@ title: The Rule of Jenny Pen (2024)
 description: ew, old people
 date: 2025-10-24 12:46:18 +0200
 categories: [films, horror films]
-tags: [film reviews, horror, buttsploitation, fartsploitation, hagsploitation, it's a metaphor d'uh, let's die our way out, secret sad movie, secret musical, spooky doll, spooky painting, thriller, why would you even keep that thing at home, spooktober 2025, they don't say the title]
+tags: [film reviews, horror, buttsploitation, fartsploitation, hagsploitation, it's a metaphor d'uh, let's die our way out, secret sad movie, secret musical, spooky doll, spooky painting, thriller, why would you even keep that thing at home, spooktober 2025, spooktober, they don't say the title]
 media_subpath: "/assets/img/posts/2025-10-24/"
 image:
     path: "the-rule-of-jenny-pen.png"

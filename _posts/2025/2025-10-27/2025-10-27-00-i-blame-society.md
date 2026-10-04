@@ -3,7 +3,7 @@ title: I Blame Society (2020)
 description: she's not talking about the Brian Yuzna motion picture
 date: 2025-10-27 09:09:35 +0100
 categories: [films, horror films]
-tags: [film reviews, horror, horror comedy, found footage, lowbudgetcore, secret romcom, true crime fans are the worst, spooktober 2025, they don't say the title]
+tags: [film reviews, horror, horror comedy, found footage, lowbudgetcore, secret romcom, true crime fans are the worst, spooktober 2025, spooktober, they don't say the title]
 media_subpath: "/assets/img/posts/2025-10-27/"
 image:
     path: "i-blame-society.png"

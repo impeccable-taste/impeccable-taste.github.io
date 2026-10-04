@@ -3,7 +3,7 @@ title: The Deliverance (2024)
 description: Oh, how the mighty have fallen
 date: 2024-10-02 22:44:18 +0100
 categories: [films, horror films]
-tags: [film reviews, horror, satanic panic, netflixcore, spooktober 2024, hagsploitation, haunted-housesploitation, they say the title]
+tags: [film reviews, horror, satanic panic, netflixcore, spooktober 2024, spooktober, hagsploitation, haunted-housesploitation, they say the title]
 media_subpath: "/assets/img/posts/2024-10-02/"
 image:
     path: "the-deliverance.png"
