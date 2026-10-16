@@ -3,7 +3,7 @@ title: The Thing That Ate the Birds (2021)
 description: you'll shoot your eye out, kid
 date: 2026-10-11 11:16:50 +0200
 categories: [films, horror films]
-tags: [film reviews, horror, spooktober, spooktober 2026, it's a metaphor d'uh, let's shoot our way out, middleofnowherecore, ñam ñam qué rico, they don't say the title]
+tags: [film reviews, horror, spooktober, spooktober 2026, it's a metaphor d'uh, let's shoot our way out, middleofnowherecore, ñam ñam qué rico, shorts, they don't say the title]
 media_subpath: "/assets/img/posts/2026-10-11/"
 image:
     path: "the-thing-that-ate-the-birds.png"

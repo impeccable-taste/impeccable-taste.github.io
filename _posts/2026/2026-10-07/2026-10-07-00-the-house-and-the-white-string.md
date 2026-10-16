@@ -3,7 +3,7 @@ title: The House and the White String (2020)
 description: in the middle of the street!
 date: 2026-10-07 18:40:28 +0200
 categories: [films, horror films]
-tags: [film reviews, horror, spooktober, spooktober 2026, found footage, hagsploitation, haunted-housesploitation, hidden ghosts, lowbudgetcore, middleofnowherecore, shorts, the internet is scary, why would you touch that, they don't say the title]
+tags: [film reviews, horror, spooktober, spooktober 2026, found footage, hagsploitation, haunted-housesploitation, hidden ghosts, lowbudgetcore, middleofnowherecore, shorts, the internet is scary, why would you touch that, shorts, they don't say the title]
 media_subpath: "/assets/img/posts/2026-10-07/"
 image:
     path: "the-house-and-the-white-string.png"
