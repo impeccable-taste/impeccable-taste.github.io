@@ -3,7 +3,7 @@ title: The House in Sherwood (2020)
 description: She's kind of crazy and not in a cool, interesting way
 date: 2026-10-25 21:25:30 +0100
 categories: [films, horror films]
-tags: [film reviews, horror, spooktober, spooktober 2026, featuring the most obnoxious people on earth, found footage, haunted-housesploitation, hidden ghosts, influencers!, lowbudgetcore, my-crimes.txt, spooky doll, the internet is scary, they don't say the title]
+tags: [film reviews, horror, spooktober, spooktober 2026, featuring the most obnoxious people on earth, found footage, haunted-housesploitation, hidden ghosts, influencers!, lowbudgetcore, my-crimes.txt, clowntastic, spooky doll, the internet is scary, they don't say the title]
 media_subpath: "/assets/img/posts/2026-10-25/"
 image:
     path: "the-house-in-sherwood.png"
